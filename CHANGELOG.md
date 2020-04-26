@@ -4,10 +4,22 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.8.47] - 2020-04-22
+### Added
+- CRPT, DASC, GT, HEX, NMR, OAG, PAXG, plDAI, plUSDC, TRAC, UUU, WIB, WXT
+### Updated
+- DENT, HPB, TUSD
+### Deprecated
+- DASH
+---
 ## [1.8.34] - 2020-04-10
 ### Added
 - APL, BF, CEL, CHZ, FXC, OCEAN, ORBS, OXT, XNS, COTI, HIVE, LOKI, MWC, OGN, STX, UBT, UOS, WRX
-### Updated
+---
+## [1.8.26] - 2020-04-08
+### Added
+- CHZ, COTI, HIVE, LOKI, MWC, OGN, STX, UBT, UOS, WRX
+### Deprecated
 - KMD, PAI, POWR
 ---
 ## [1.8.16] - 2020-04-04
