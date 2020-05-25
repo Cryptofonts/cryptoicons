@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## [1.8.47] - 2020-04-22
 ### Added
+- BAM, MYB, SPN, iBAT, iDAI, iETH, iKNC, iLINK, iREP, iSUSD, iWBTC, iZRX, cBAT, cDAI, cETH, cREP, cSAI, cUSDC,cWBTC, cZRX, AMPL, ANJ, BAND, BTC++, GEN, LPT, LQD, LUNA, MBC, MCX, MLN, SHUF, TRB, TRYB, USDS, XCHF
+### Updated
+- BAT
+---
+## [1.8.47] - 2020-04-22
+### Added
 - CRPT, DASC, GT, HEX, NMR, OAG, PAXG, plDAI, plUSDC, TRAC, UUU, WIB, WXT
 ### Updated
 - DENT, HPB, TUSD
