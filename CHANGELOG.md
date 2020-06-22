@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.9.0] - 2020-06-22
+### Added
+- 0XBTC, CHAI, COMP, DIVI, ERD, HC, HUSD, HYN, KAVA, RSR, XSR
+### Updated
+- VEN, ANT, OMG, EDO
+
 ## [1.8.84] - 2020-05-25
 ### Added
 - BAM, MYB, SPN, iBAT, iDAI, iETH, iKNC, iLINK, iREP, iSUSD, iWBTC, iZRX, cBAT, cDAI, cETH, cREP, cSAI, cUSDC,cWBTC, cZRX, AMPL, ANJ, BAND, BTC++, GEN, LPT, LQD, LUNA, MBC, MCX, MLN, SHUF, TRB, TRYB, USDS, XCHF
