@@ -24,4 +24,4 @@ Pull requests are the best way to propose changes to the codebase. We actively w
 1. Issue that pull request!
 
 ### License
-By contributing, you agree that your contributions will be licensed under its MIT License.
+By contributing, you agree that your contributions will be licensed under its GNU License.
