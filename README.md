@@ -20,6 +20,9 @@ Pull requests are the best way to propose changes to the codebase. We actively w
 
 1. Fork the repo and create your branch from `master`.
 1. All icons should be 500px x 500px.
+1. The file should only contain vectors (no png, jpg etc.).
+1. All layers should be under a unique group.
+1. The main layer group need to be named as the icon.
 1. Add your SVG to the `SVG-icons` folder.
 1. Issue that pull request!
 
