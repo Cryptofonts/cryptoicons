@@ -4,15 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [1.9.29] - 2021-01-04
+## [1.9.57] - 2021-01-04
 ### Added
 - 1INCH, 1ST, BAC, CAKE, EGLD, ESD, FIL, GRT, PRQ, RFOX, SKL, ZAI
+- AAVE, AVAX, CREAM ,CRV, DOT, IRIS, KSM, LTO, NEAR, PERL, SOL, SRM, SXP, UMA, UNI, VITE
 ### Updated
 - SNX
 
-## [1.9.16] - 2020-12-19
+## [1.9.28] - 2020-08-05
 ### Added
-- AAVE, AVAX, CREAM ,CRV, DOT, IRIS, KSM, LTO, NEAR, PERL, SOL, SRM, SXP, UMA, UNI, VITE
+AKRO, ALEPH, AUC, FRM, IDEX, JRT, JST, MTA, NEC, RUNE, STAKE, SWTH, WBTC, YFI, GDC, MFG, NEXXO, PBTC, PLR, PNT, SAN, BAL, BZRX, EKG, GEN, PNK, RAE, UPP
 
 ## [1.9.0] - 2020-06-22
 ### Added
