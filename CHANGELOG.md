@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.9.72] - 2021-02-25
+### Added
+- APY, BAO, FLOW, GOC, LIT, PNG, POND, PPAY, REV, SHR, SUSHI, TITAN, UNFI, UNN
+### Updated
+- XLQ
+
 ## [1.9.57] - 2021-01-04
 ### Added
 - 1INCH, 1ST, BAC, CAKE, EGLD, ESD, FIL, GRT, PRQ, RFOX, SKL, ZAI
