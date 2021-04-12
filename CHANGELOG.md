@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.0.26] - 2021-04-12
+### Added
+- AKT, ALPHA, ANC, AR, BIFI, BORA, CFX, CRE, CTC, DFI, DODO, ERN, EWT, GALA, HVN, KEEP, KLV, LAND, LDO, LON, MATH, MED, MIR, MVC, MVL, NOIA, NU, ORC, ORN, RARI, RAY, ROSE, SCRT, SFP, STETH, STMX, SUPER, SUTER, SWAP, VLX, VSP, WHALE, WOO, XMARK, XOR, ZKS
+### Updated
+- CKB, MFT, QNT, REP
+
 ## [1.9.72] - 2021-02-25
 ### Added
 - APY, BAO, FLOW, GOC, LIT, PNG, POND, PPAY, REV, SHR, SUSHI, TITAN, UNFI, UNN
