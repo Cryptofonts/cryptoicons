@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.1.00] - 2022-01-03
+### Added
+- AMP, APW, ARMOR, AUTO, BCHA, BEL, BOND, BONDLY, BUNNY, CLOUT, CVP, DAFI, DFYN, DVF, DXD, FAB, FEED, FEI, FIDA, FILDA, HAKKA, HNT, HZN, ICP, KLAY, LN, LQTY, MAHA, MATTER, MIM, MPL, NIOX, NLG, OPIUM, PAR, PENDLE, PERP, PICKLE, POOL, PREMIA, PROS, QI, ROOK, SAND, SEFI, SFI, SHIB, STEP, STPT, TBTC, TORN, TRIBE, TRU, UFT, UNCX, VALUE, VGX, WEXPOLY, WING, XRD,
+
+### Updated
+- GALA, LON, MATIC, NEXXO
+
 ## [2.0.35] - 2021-04-28
 ### Added
 - COVER, DERI, FRONT, GSWAP, PAINT, PBR, POLS, SAR, SDT
