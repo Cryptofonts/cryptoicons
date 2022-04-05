@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.1.32] - 2022-04-05
+### Added
+- BLK, FTC
+
+### Updated
+- BNB
+
 ## [2.1.30] - 2022-03-03
 ### Added
 - ALCX, BETA, CELO, CVX, EFI, FOX, FRAX, HIGH, JUNO, KDA, LCX, LOOKS, MARS, MNGO, NFT, OHM, OSMO, POKT, QUICK, SOV, TWT, USDP, XHV
