@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.2.16] - 2022-11-29
+### Added
+- BFC, BLD, CET, CFG, EUROC, FXS, KIRO, MASK, MC, NRV, PLTC, PROM, RBN, SETH2, SFM, XNO
+- All icons are also available in PNG format @ 16px, 32px, 64px, 128px
+
 ## [2.1.99] - 2022-10-26
 ### Added
 - 1FLR, 10SET, ACA, ALUSD, APE, APT, ASM, ASTRO, AUDIO, BABYDOGE, BICO, BIT, BTR, CHR, CSPR, DAO, DEP, DIA, DOME, DYDX, ENS, EVER, EVMOS,, FLEX, FLUX, GAL, GMX, ILV, KUB, LUSD, METIS, MEX, MIMATIC, MNTL, MNW, OP, PYR, RACA, RLY, RNDR, SAPP, SHA, SLP, SPIKE, SSV, STG, STRK, SWEAT, SYN, TYZEN, USDD, VVS, WARP, XCN, XEC, XPR, ZPAY
