@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.2.34] - 2022-12-10
+### Added
+- $READ, $SNOW, AZERO, BRISE, CRD, CTC, ETHW, EZY, GLMR, LODE, METANO, OPX, PBIRB, POM, UNIQO, XAI, XLN, XRPT
+
 ## [2.2.16] - 2022-11-29
 ### Added
 - BFC, BLD, CET, CFG, EUROC, FXS, KIRO, MASK, MC, NRV, PLTC, PROM, RBN, SETH2, SFM, XNO
