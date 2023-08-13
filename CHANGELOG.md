@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.3.28] - 2022-07-04
+
+### Added
+
+$BASED, AIDOGE, ALI, ARB, BLANK, BMDA, BNC, BNX, BOTTO, BSW, CBETH, CHO, CIRUS, CNC, DESO, DEXE, DMTR, ELAN, ERG, FLOKI, FOLD, FST, FTC, FX, GOVI, GRAIL, HEGIC, HFT, HXRO, ICE, ID, INSTAR, IQ, LIEN, MAGIC, MCB, MDAO, MXC, NEST, NFTB, OIL, OKS, PALM, PHX, POLYX, RDNT, RETH, SFP, SI, SLD, SNAIL, SUI, THALES, TND, TOMI, TON, VAI, VELA, VINA, WEMIX, WIN, X2Y2, XAUT, XCH, XCM, XDC, XIDO, YFII,
+
 ## [2.2.58] - 2022-12-18
 
 ### Added
