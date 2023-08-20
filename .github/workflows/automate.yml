@@ -19,6 +19,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: get latest changes
+        run: |
+          git pull
+
       - name: execute py script # run cg-automate.py
         run: python svg2png.py
 
