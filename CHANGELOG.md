@@ -4,7 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## [2.3.28] - 2022-07-04
+## [2.3.49] - 2023-08-20
+
+### Added
+
+ARBS, ARKM, BGB, CORE, CYBER, DEL, EDU, FIDU, FNSA, FRXETH, GB, KAS, KUJI, MNT, MURA, SWETH, ULT, VITA, WBT, WILD, WLD
+
+## [2.3.28] - 2023-07-04
 
 ### Added
 
