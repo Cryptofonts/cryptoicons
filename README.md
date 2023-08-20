@@ -4,7 +4,7 @@ Cryptoicons is a collection of cryptocurrency and token icons in SVG format that
 
 Each icons is also available in PNG format @ 16px, 32px, 64px and 128px.
 
-If you're looking for an icons Webfont, checkout my other project [Cryptofonts](https://github.com/monzanifabio/cryptofont) on GitHub.
+If you're looking for an icons Webfont, checkout my other project [Cryptofonts](https://github.com/monzanifabio/cryptofont) on GitHub or the [official API](https://cryptofonts.com/api.html) for developers that are looking to integrate token icons into their projects.
 
 The icons are free to use for personal and commercial projects under the GNU License.
 
@@ -29,4 +29,5 @@ Pull requests are the best way to propose changes to the codebase. We actively w
 1. Issue that pull request!
 
 ### License
+
 By contributing, you agree that your contributions will be licensed under its GNU License.
