@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.3.66] - 2023-08-23
+
+### Added
+
+GMT, NXM, ORAI, OX, PLA, PNB, PRIME, PXP, QTCON, SDEX, SEI, SILO, SUN, UXP, VS, WMT, ZKSP
+
 ## [2.3.49] - 2023-08-20
 
 ### Added
