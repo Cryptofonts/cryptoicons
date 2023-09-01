@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.3.99] - 2023-09-01
+
+### Added
+
+ABAT, ABUSD, ADAI, AENJ, AETH, AKNC, ALEND, ALINK, AMANA, AMKR, AREN, ASNX, ASUSD, ATUSD, AUSDC, AUSDT, AWBTC, AWETH, AYFI, AZRX, FAME, FOAM, ISAI, PIKA, RDAI, RGT, RPL, SETH, SOCKS, SPANK, SUSD, WCK, WETH
+
 ## [2.3.66] - 2023-08-23
 
 ### Added
