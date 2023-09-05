@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.4.17] - 2023-09-05
+
+### Added
+
+ALETH, AMKT, BITCOIN, BOB, CHAIN, COC, CRVUSD, CTSI, DF, DHT, ECO, EQB, FARM, FIS, FLASH, FPI, FPIS, GIV
+
 ## [2.3.99] - 2023-09-01
 
 ### Added
