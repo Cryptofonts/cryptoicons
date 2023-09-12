@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.4.37] - 2023-09-12
+
+### Added
+
+BWAJNA, GROW, GTC, GYEN, HAIR, HAN, HANEP, IFARM, LPF, MOCHI, MOM, NEXUS, PAPER, PHTK, PIP, POP, PSP, RAI, RETH, RFWSTETH, SDL, SOAPS, SOFI, SUSD, T, TBTC, THEDAO, TOWER, UBI, USX, VEKWENTA, VELO, WOPENX, WSTETH, WBTB, XMT, ZUSD
+
+### Updated
+
+ENS, MET, RPL
+
 ## [2.4.17] - 2023-09-05
 
 ### Added
