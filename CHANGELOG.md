@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.4.60] - 2024-01-16
+
+### Added
+
+BROCK, CHIA, CRE, DEXE, GAMMA, GMEE, INJ, MEME, MOONS, NXRA, OPUL, PEPE, PYTH, RBX, SIDUS, TET, TIA, UNIBOT, WAGMIGAMES, WASSIE, XYM, YLD, ZEPH
+
 ## [2.4.37] - 2023-09-12
 
 ### Added
