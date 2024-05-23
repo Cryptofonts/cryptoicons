@@ -47,9 +47,9 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.ACTION_TOKEN }}
         with:
-          source_file: "SVG/*.svg"
+          source_file: "SVG/"
           destination_repo: "Cryptofonts/cryptofont-web"
-          destination_folder: "img/icons"
+          destination_folder: "img"
           user_email: "action@github.com"
           user_name: "GitHub Action"
           commit_message: "Merged icons from cryptoicons repo"
