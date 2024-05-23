@@ -47,7 +47,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.ACTION_TOKEN }}
         with:
-          source_file: "SVG/**"
+          source_file: "SVG/*.svg"
           destination_repo: "Cryptofonts/cryptofont-web"
           destination_folder: "img/icons"
           user_email: "action@github.com"
