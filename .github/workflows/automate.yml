@@ -1,6 +1,9 @@
-name: Run automation
+name: Run cryptoicons automation
 
-on: [push]
+on:
+  push:
+    paths:
+      - SVG/**
 
 jobs:
   build:
@@ -23,8 +26,8 @@ jobs:
         run: |
           git pull
 
-      - name: execute py script # run cg-automate.py
-        run: python svg2png.py
+      - name: execute py script
+        run: python main.py
 
       - name: commit files
         run: |
@@ -38,3 +41,15 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
+
+      - name: Push icons to cryptofont-web
+        uses: dmnemec/copy_file_to_another_repo_action@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.ACTION_TOKEN }}
+        with:
+          source_file: "SVG/"
+          destination_repo: "Cryptofonts/cryptofont-web"
+          destination_folder: "img"
+          user_email: "action@github.com"
+          user_name: "GitHub Action"
+          commit_message: "Merged icons from cryptoicons repo"
