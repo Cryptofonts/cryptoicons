@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.5.38] - 2025-09-30
+
+### Added
+
+4TOKEN, AIOZ, APX, ASTER, AVNT, AXL, BEAM, DOGS, DUCK, ENA, FDUSD, FLR, HYPE, JUP, M, METH, MEW, MSOL, NOT, NPC, ORDI, POPCAT, PYUSD, RON, RSETH, SATS, SURGE, TAO, TKX, USD1, USDE, USDT0, USDY, W, WEETH, XPL, YARA, ZK, ZRO
+
+### Updated
+
+AAVE, CHZ
+
 ## [2.4.96] - 2024-05-24
 
 ### Added
