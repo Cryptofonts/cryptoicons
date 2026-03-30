@@ -1,1 +1,1 @@
-CairoSVG==2.7.1
+CairoSVG==2.9.0
