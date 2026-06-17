@@ -1,6 +1,0 @@
-<svg id="tx-success" width="96" height="82" viewBox="0 0 96 82" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="48" cy="41" r="40" stroke="currentColor" stroke-width="2"/>
-    <path d="M38 39L48 29" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M48 29V53" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M58 39L48 29" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
