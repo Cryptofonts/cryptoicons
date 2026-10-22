@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### Important
+
+All new changes are merged into the repo without a version.
+
 ## [2.5.38] - 2025-09-30
 
 ### Added
