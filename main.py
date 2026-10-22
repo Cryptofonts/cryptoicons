@@ -19,7 +19,7 @@ if not os.path.exists('16'):
    os.makedirs('16')
 
 currentDir = str(os.getcwd())
-targetDir = os.path.join(currentDir, 'SVG')
+targetDir = os.path.join(currentDir, 'assets')
 print(targetDir)
 
 # Convert SVG to PNG and save to folders

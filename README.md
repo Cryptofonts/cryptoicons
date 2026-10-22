@@ -25,8 +25,38 @@ Pull requests are the best way to propose changes to the codebase. We actively w
 1. The file should only contain vectors (no png, jpg etc.).
 1. All layers should be under a unique group.
 1. The main layer group need to be named as the icon.
-1. Add your SVG to the `SVG` folder.
+1. Add your SVG to the `assets` folder.
 1. Issue that pull request!
+
+## JavaScript packages
+
+The repository is a pnpm workspace. Run `pnpm install`, then `pnpm generate`
+and `pnpm build` to generate the icon metadata and React components and build
+the `@cryptofonts/core` and `@cryptofonts/react` packages. Deprecated icons in
+`assets/_deprecated` are retained as source files but are not included in
+generated packages.
+
+React consumers can import a single icon, a naming alias, or the dynamic
+wrapper:
+
+```tsx
+import { BtcIcon, CryptoIcon, IconBtc } from '@cryptofonts/react';
+
+function Example() {
+  return (
+    <>
+      <IconBtc size={24} aria-label="Bitcoin" />
+      <BtcIcon size={24} />
+      <CryptoIcon name="btc" size={24} fallback={<span>BTC</span>} />
+    </>
+  );
+}
+```
+
+`@cryptofonts/core` exports the `manifest`, `getIconUrlBySymbol`, and
+`getIconUrlByContract` helpers. The contract helper accepts a caller-provided
+chain/address-to-symbol map because contract addresses are not part of this
+icon-only repository.
 
 ### License
 

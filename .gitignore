@@ -1,3 +1,6 @@
 .DS_Store
 SVG/_svgToPng.py
 venv
+node_modules
+packages/*/dist
+packages/react/src/generated
