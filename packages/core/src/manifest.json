@@ -1,0 +1,5627 @@
+{
+  "$based": {
+    "symbol": "$based",
+    "name": "$based",
+    "file": "$based.svg"
+  },
+  "$read": {
+    "symbol": "$read",
+    "name": "$read",
+    "file": "$read.svg"
+  },
+  "$snow": {
+    "symbol": "$snow",
+    "name": "$snow",
+    "file": "$snow.svg"
+  },
+  "0xbtc": {
+    "symbol": "0xbtc",
+    "name": "0xbtc",
+    "file": "0xbtc.svg"
+  },
+  "10set": {
+    "symbol": "10set",
+    "name": "10set",
+    "file": "10set.svg"
+  },
+  "1flr": {
+    "symbol": "1flr",
+    "name": "1flr",
+    "file": "1flr.svg"
+  },
+  "1inch": {
+    "symbol": "1inch",
+    "name": "1inch",
+    "file": "1inch.svg"
+  },
+  "1st": {
+    "symbol": "1st",
+    "name": "1st",
+    "file": "1st.svg"
+  },
+  "4token": {
+    "symbol": "4token",
+    "name": "4token",
+    "file": "4token.svg"
+  },
+  "aave": {
+    "symbol": "aave",
+    "name": "aave",
+    "file": "aave.svg"
+  },
+  "abat": {
+    "symbol": "abat",
+    "name": "abat",
+    "file": "abat.svg"
+  },
+  "abbc": {
+    "symbol": "abbc",
+    "name": "abbc",
+    "file": "abbc.svg"
+  },
+  "abt": {
+    "symbol": "abt",
+    "name": "abt",
+    "file": "abt.svg"
+  },
+  "abusd": {
+    "symbol": "abusd",
+    "name": "abusd",
+    "file": "abusd.svg"
+  },
+  "ac3": {
+    "symbol": "ac3",
+    "name": "ac3",
+    "file": "ac3.svg"
+  },
+  "aca": {
+    "symbol": "aca",
+    "name": "aca",
+    "file": "aca.svg"
+  },
+  "act": {
+    "symbol": "act",
+    "name": "act",
+    "file": "act.svg"
+  },
+  "ada": {
+    "symbol": "ada",
+    "name": "ada",
+    "file": "ada.svg"
+  },
+  "adai": {
+    "symbol": "adai",
+    "name": "adai",
+    "file": "adai.svg"
+  },
+  "adb": {
+    "symbol": "adb",
+    "name": "adb",
+    "file": "adb.svg"
+  },
+  "adi": {
+    "symbol": "adi",
+    "name": "adi",
+    "file": "adi.svg"
+  },
+  "adx": {
+    "symbol": "adx",
+    "name": "adx",
+    "file": "adx.svg"
+  },
+  "ae": {
+    "symbol": "ae",
+    "name": "ae",
+    "file": "ae.svg"
+  },
+  "aenj": {
+    "symbol": "aenj",
+    "name": "aenj",
+    "file": "aenj.svg"
+  },
+  "aeon": {
+    "symbol": "aeon",
+    "name": "aeon",
+    "file": "aeon.svg"
+  },
+  "aergo": {
+    "symbol": "aergo",
+    "name": "aergo",
+    "file": "aergo.svg"
+  },
+  "aeth": {
+    "symbol": "aeth",
+    "name": "aeth",
+    "file": "aeth.svg"
+  },
+  "agi": {
+    "symbol": "agi",
+    "name": "agi",
+    "file": "agi.svg"
+  },
+  "aidoge": {
+    "symbol": "aidoge",
+    "name": "aidoge",
+    "file": "aidoge.svg"
+  },
+  "aion": {
+    "symbol": "aion",
+    "name": "aion",
+    "file": "aion.svg"
+  },
+  "aioz": {
+    "symbol": "aioz",
+    "name": "aioz",
+    "file": "aioz.svg"
+  },
+  "ait": {
+    "symbol": "ait",
+    "name": "ait",
+    "file": "ait.svg"
+  },
+  "aknc": {
+    "symbol": "aknc",
+    "name": "aknc",
+    "file": "aknc.svg"
+  },
+  "akro": {
+    "symbol": "akro",
+    "name": "akro",
+    "file": "akro.svg"
+  },
+  "akt": {
+    "symbol": "akt",
+    "name": "akt",
+    "file": "akt.svg"
+  },
+  "alcx": {
+    "symbol": "alcx",
+    "name": "alcx",
+    "file": "alcx.svg"
+  },
+  "alend": {
+    "symbol": "alend",
+    "name": "alend",
+    "file": "alend.svg"
+  },
+  "aleph": {
+    "symbol": "aleph",
+    "name": "aleph",
+    "file": "aleph.svg"
+  },
+  "aleth": {
+    "symbol": "aleth",
+    "name": "aleth",
+    "file": "aleth.svg"
+  },
+  "algo": {
+    "symbol": "algo",
+    "name": "algo",
+    "file": "algo.svg"
+  },
+  "ali": {
+    "symbol": "ali",
+    "name": "ali",
+    "file": "ali.svg"
+  },
+  "alink": {
+    "symbol": "alink",
+    "name": "alink",
+    "file": "alink.svg"
+  },
+  "alis": {
+    "symbol": "alis",
+    "name": "alis",
+    "file": "alis.svg"
+  },
+  "alpha": {
+    "symbol": "alpha",
+    "name": "alpha",
+    "file": "alpha.svg"
+  },
+  "alusd": {
+    "symbol": "alusd",
+    "name": "alusd",
+    "file": "alusd.svg"
+  },
+  "alx": {
+    "symbol": "alx",
+    "name": "alx",
+    "file": "alx.svg"
+  },
+  "amana": {
+    "symbol": "amana",
+    "name": "amana",
+    "file": "amana.svg"
+  },
+  "amb": {
+    "symbol": "amb",
+    "name": "amb",
+    "file": "amb.svg"
+  },
+  "amkr": {
+    "symbol": "amkr",
+    "name": "amkr",
+    "file": "amkr.svg"
+  },
+  "amkt": {
+    "symbol": "amkt",
+    "name": "amkt",
+    "file": "amkt.svg"
+  },
+  "amlt": {
+    "symbol": "amlt",
+    "name": "amlt",
+    "file": "amlt.svg"
+  },
+  "amp": {
+    "symbol": "amp",
+    "name": "amp",
+    "file": "amp.svg"
+  },
+  "ampl": {
+    "symbol": "ampl",
+    "name": "ampl",
+    "file": "ampl.svg"
+  },
+  "anc": {
+    "symbol": "anc",
+    "name": "anc",
+    "file": "anc.svg"
+  },
+  "anj": {
+    "symbol": "anj",
+    "name": "anj",
+    "file": "anj.svg"
+  },
+  "ankr": {
+    "symbol": "ankr",
+    "name": "ankr",
+    "file": "ankr.svg"
+  },
+  "ant": {
+    "symbol": "ant",
+    "name": "ant",
+    "file": "ant.svg"
+  },
+  "ape": {
+    "symbol": "ape",
+    "name": "ape",
+    "file": "ape.svg"
+  },
+  "aph": {
+    "symbol": "aph",
+    "name": "aph",
+    "file": "aph.svg"
+  },
+  "apl": {
+    "symbol": "apl",
+    "name": "apl",
+    "file": "apl.svg"
+  },
+  "appc": {
+    "symbol": "appc",
+    "name": "appc",
+    "file": "appc.svg"
+  },
+  "apt": {
+    "symbol": "apt",
+    "name": "apt",
+    "file": "apt.svg"
+  },
+  "apw": {
+    "symbol": "apw",
+    "name": "apw",
+    "file": "apw.svg"
+  },
+  "apx": {
+    "symbol": "apx",
+    "name": "apx",
+    "file": "apx.svg"
+  },
+  "apy": {
+    "symbol": "apy",
+    "name": "apy",
+    "file": "apy.svg"
+  },
+  "ar": {
+    "symbol": "ar",
+    "name": "ar",
+    "file": "ar.svg"
+  },
+  "arb": {
+    "symbol": "arb",
+    "name": "arb",
+    "file": "arb.svg"
+  },
+  "arbs": {
+    "symbol": "arbs",
+    "name": "arbs",
+    "file": "arbs.svg"
+  },
+  "archive": {
+    "symbol": "archive",
+    "name": "archive",
+    "file": "archive.svg"
+  },
+  "ardr": {
+    "symbol": "ardr",
+    "name": "ardr",
+    "file": "ardr.svg"
+  },
+  "aren": {
+    "symbol": "aren",
+    "name": "aren",
+    "file": "aren.svg"
+  },
+  "ark": {
+    "symbol": "ark",
+    "name": "ark",
+    "file": "ark.svg"
+  },
+  "arkm": {
+    "symbol": "arkm",
+    "name": "arkm",
+    "file": "arkm.svg"
+  },
+  "armor": {
+    "symbol": "armor",
+    "name": "armor",
+    "file": "armor.svg"
+  },
+  "arn": {
+    "symbol": "arn",
+    "name": "arn",
+    "file": "arn.svg"
+  },
+  "aro": {
+    "symbol": "aro",
+    "name": "aro",
+    "file": "aro.svg"
+  },
+  "arrr": {
+    "symbol": "arrr",
+    "name": "arrr",
+    "file": "arrr.svg"
+  },
+  "asm": {
+    "symbol": "asm",
+    "name": "asm",
+    "file": "asm.svg"
+  },
+  "asnx": {
+    "symbol": "asnx",
+    "name": "asnx",
+    "file": "asnx.svg"
+  },
+  "ast": {
+    "symbol": "ast",
+    "name": "ast",
+    "file": "ast.svg"
+  },
+  "aster": {
+    "symbol": "aster",
+    "name": "aster",
+    "file": "aster.svg"
+  },
+  "astro": {
+    "symbol": "astro",
+    "name": "astro",
+    "file": "astro.svg"
+  },
+  "asusd": {
+    "symbol": "asusd",
+    "name": "asusd",
+    "file": "asusd.svg"
+  },
+  "atmi": {
+    "symbol": "atmi",
+    "name": "atmi",
+    "file": "atmi.svg"
+  },
+  "atom": {
+    "symbol": "atom",
+    "name": "atom",
+    "file": "atom.svg"
+  },
+  "atusd": {
+    "symbol": "atusd",
+    "name": "atusd",
+    "file": "atusd.svg"
+  },
+  "auc": {
+    "symbol": "auc",
+    "name": "auc",
+    "file": "auc.svg"
+  },
+  "audio": {
+    "symbol": "audio",
+    "name": "audio",
+    "file": "audio.svg"
+  },
+  "aura": {
+    "symbol": "aura",
+    "name": "aura",
+    "file": "aura.svg"
+  },
+  "ausdc": {
+    "symbol": "ausdc",
+    "name": "ausdc",
+    "file": "ausdc.svg"
+  },
+  "ausdt": {
+    "symbol": "ausdt",
+    "name": "ausdt",
+    "file": "ausdt.svg"
+  },
+  "auto": {
+    "symbol": "auto",
+    "name": "auto",
+    "file": "auto.svg"
+  },
+  "avax": {
+    "symbol": "avax",
+    "name": "avax",
+    "file": "avax.svg"
+  },
+  "avinoc": {
+    "symbol": "avinoc",
+    "name": "avinoc",
+    "file": "avinoc.svg"
+  },
+  "avnt": {
+    "symbol": "avnt",
+    "name": "avnt",
+    "file": "avnt.svg"
+  },
+  "awbtc": {
+    "symbol": "awbtc",
+    "name": "awbtc",
+    "file": "awbtc.svg"
+  },
+  "awc": {
+    "symbol": "awc",
+    "name": "awc",
+    "file": "awc.svg"
+  },
+  "aweth": {
+    "symbol": "aweth",
+    "name": "aweth",
+    "file": "aweth.svg"
+  },
+  "axl": {
+    "symbol": "axl",
+    "name": "axl",
+    "file": "axl.svg"
+  },
+  "axp": {
+    "symbol": "axp",
+    "name": "axp",
+    "file": "axp.svg"
+  },
+  "axs": {
+    "symbol": "axs",
+    "name": "axs",
+    "file": "axs.svg"
+  },
+  "ayfi": {
+    "symbol": "ayfi",
+    "name": "ayfi",
+    "file": "ayfi.svg"
+  },
+  "azero": {
+    "symbol": "azero",
+    "name": "azero",
+    "file": "azero.svg"
+  },
+  "azrx": {
+    "symbol": "azrx",
+    "name": "azrx",
+    "file": "azrx.svg"
+  },
+  "babydoge": {
+    "symbol": "babydoge",
+    "name": "babydoge",
+    "file": "babydoge.svg"
+  },
+  "bac": {
+    "symbol": "bac",
+    "name": "bac",
+    "file": "bac.svg"
+  },
+  "badger": {
+    "symbol": "badger",
+    "name": "badger",
+    "file": "badger.svg"
+  },
+  "bal": {
+    "symbol": "bal",
+    "name": "bal",
+    "file": "bal.svg"
+  },
+  "bam": {
+    "symbol": "bam",
+    "name": "bam",
+    "file": "bam.svg"
+  },
+  "band": {
+    "symbol": "band",
+    "name": "band",
+    "file": "band.svg"
+  },
+  "bao": {
+    "symbol": "bao",
+    "name": "bao",
+    "file": "bao.svg"
+  },
+  "based": {
+    "symbol": "based",
+    "name": "based",
+    "file": "based.svg"
+  },
+  "bat": {
+    "symbol": "bat",
+    "name": "bat",
+    "file": "bat.svg"
+  },
+  "bay": {
+    "symbol": "bay",
+    "name": "bay",
+    "file": "bay.svg"
+  },
+  "bbr": {
+    "symbol": "bbr",
+    "name": "bbr",
+    "file": "bbr.svg"
+  },
+  "bcap": {
+    "symbol": "bcap",
+    "name": "bcap",
+    "file": "bcap.svg"
+  },
+  "bcd": {
+    "symbol": "bcd",
+    "name": "bcd",
+    "file": "bcd.svg"
+  },
+  "bch": {
+    "symbol": "bch",
+    "name": "bch",
+    "file": "bch.svg"
+  },
+  "bcha": {
+    "symbol": "bcha",
+    "name": "bcha",
+    "file": "bcha.svg"
+  },
+  "bcn": {
+    "symbol": "bcn",
+    "name": "bcn",
+    "file": "bcn.svg"
+  },
+  "bco": {
+    "symbol": "bco",
+    "name": "bco",
+    "file": "bco.svg"
+  },
+  "bdx": {
+    "symbol": "bdx",
+    "name": "bdx",
+    "file": "bdx.svg"
+  },
+  "beam": {
+    "symbol": "beam",
+    "name": "beam",
+    "file": "beam.svg"
+  },
+  "bel": {
+    "symbol": "bel",
+    "name": "bel",
+    "file": "bel.svg"
+  },
+  "beta": {
+    "symbol": "beta",
+    "name": "beta",
+    "file": "beta.svg"
+  },
+  "bf": {
+    "symbol": "bf",
+    "name": "bf",
+    "file": "bf.svg"
+  },
+  "bfc": {
+    "symbol": "bfc",
+    "name": "bfc",
+    "file": "bfc.svg"
+  },
+  "bgb": {
+    "symbol": "bgb",
+    "name": "bgb",
+    "file": "bgb.svg"
+  },
+  "bico": {
+    "symbol": "bico",
+    "name": "bico",
+    "file": "bico.svg"
+  },
+  "bifi": {
+    "symbol": "bifi",
+    "name": "bifi",
+    "file": "bifi.svg"
+  },
+  "bio": {
+    "symbol": "bio",
+    "name": "bio",
+    "file": "bio.svg"
+  },
+  "birb": {
+    "symbol": "birb",
+    "name": "birb",
+    "file": "birb.svg"
+  },
+  "bit-2": {
+    "symbol": "bit-2",
+    "name": "bit-2",
+    "file": "bit-2.svg"
+  },
+  "bit": {
+    "symbol": "bit",
+    "name": "bit",
+    "file": "bit.svg"
+  },
+  "bitcoin": {
+    "symbol": "bitcoin",
+    "name": "bitcoin",
+    "file": "bitcoin.svg"
+  },
+  "bix": {
+    "symbol": "bix",
+    "name": "bix",
+    "file": "bix.svg"
+  },
+  "blank": {
+    "symbol": "blank",
+    "name": "blank",
+    "file": "blank.svg"
+  },
+  "bld": {
+    "symbol": "bld",
+    "name": "bld",
+    "file": "bld.svg"
+  },
+  "blk": {
+    "symbol": "blk",
+    "name": "blk",
+    "file": "blk.svg"
+  },
+  "block": {
+    "symbol": "block",
+    "name": "block",
+    "file": "block.svg"
+  },
+  "blt": {
+    "symbol": "blt",
+    "name": "blt",
+    "file": "blt.svg"
+  },
+  "blue": {
+    "symbol": "blue",
+    "name": "blue",
+    "file": "blue.svg"
+  },
+  "blur": {
+    "symbol": "blur",
+    "name": "blur",
+    "file": "blur.svg"
+  },
+  "blz": {
+    "symbol": "blz",
+    "name": "blz",
+    "file": "blz.svg"
+  },
+  "bmda": {
+    "symbol": "bmda",
+    "name": "bmda",
+    "file": "bmda.svg"
+  },
+  "bnb": {
+    "symbol": "bnb",
+    "name": "bnb",
+    "file": "bnb.svg"
+  },
+  "bnc": {
+    "symbol": "bnc",
+    "name": "bnc",
+    "file": "bnc.svg"
+  },
+  "bnt": {
+    "symbol": "bnt",
+    "name": "bnt",
+    "file": "bnt.svg"
+  },
+  "bnx": {
+    "symbol": "bnx",
+    "name": "bnx",
+    "file": "bnx.svg"
+  },
+  "bob": {
+    "symbol": "bob",
+    "name": "bob",
+    "file": "bob.svg"
+  },
+  "bond-2": {
+    "symbol": "bond-2",
+    "name": "bond-2",
+    "file": "bond-2.svg"
+  },
+  "bond": {
+    "symbol": "bond",
+    "name": "bond",
+    "file": "bond.svg"
+  },
+  "bondly": {
+    "symbol": "bondly",
+    "name": "bondly",
+    "file": "bondly.svg"
+  },
+  "bora": {
+    "symbol": "bora",
+    "name": "bora",
+    "file": "bora.svg"
+  },
+  "botto": {
+    "symbol": "botto",
+    "name": "botto",
+    "file": "botto.svg"
+  },
+  "box": {
+    "symbol": "box",
+    "name": "box",
+    "file": "box.svg"
+  },
+  "bpt": {
+    "symbol": "bpt",
+    "name": "bpt",
+    "file": "bpt.svg"
+  },
+  "bqx": {
+    "symbol": "bqx",
+    "name": "bqx",
+    "file": "bqx.svg"
+  },
+  "br": {
+    "symbol": "br",
+    "name": "br",
+    "file": "br.svg"
+  },
+  "brd": {
+    "symbol": "brd",
+    "name": "brd",
+    "file": "brd.svg"
+  },
+  "brise": {
+    "symbol": "brise",
+    "name": "brise",
+    "file": "brise.svg"
+  },
+  "brock": {
+    "symbol": "brock",
+    "name": "brock",
+    "file": "brock.svg"
+  },
+  "bsb": {
+    "symbol": "bsb",
+    "name": "bsb",
+    "file": "bsb.svg"
+  },
+  "bsw": {
+    "symbol": "bsw",
+    "name": "bsw",
+    "file": "bsw.svg"
+  },
+  "btc++": {
+    "symbol": "btc++",
+    "name": "btc++",
+    "file": "btc++.svg"
+  },
+  "btc": {
+    "symbol": "btc",
+    "name": "btc",
+    "file": "btc.svg"
+  },
+  "btcd": {
+    "symbol": "btcd",
+    "name": "btcd",
+    "file": "btcd.svg"
+  },
+  "btcp": {
+    "symbol": "btcp",
+    "name": "btcp",
+    "file": "btcp.svg"
+  },
+  "btg": {
+    "symbol": "btg",
+    "name": "btg",
+    "file": "btg.svg"
+  },
+  "btmx": {
+    "symbol": "btmx",
+    "name": "btmx",
+    "file": "btmx.svg"
+  },
+  "bto": {
+    "symbol": "bto",
+    "name": "bto",
+    "file": "bto.svg"
+  },
+  "btr": {
+    "symbol": "btr",
+    "name": "btr",
+    "file": "btr.svg"
+  },
+  "bts": {
+    "symbol": "bts",
+    "name": "bts",
+    "file": "bts.svg"
+  },
+  "btt": {
+    "symbol": "btt",
+    "name": "btt",
+    "file": "btt.svg"
+  },
+  "btu": {
+    "symbol": "btu",
+    "name": "btu",
+    "file": "btu.svg"
+  },
+  "bu": {
+    "symbol": "bu",
+    "name": "bu",
+    "file": "bu.svg"
+  },
+  "bunny": {
+    "symbol": "bunny",
+    "name": "bunny",
+    "file": "bunny.svg"
+  },
+  "busd": {
+    "symbol": "busd",
+    "name": "busd",
+    "file": "busd.svg"
+  },
+  "bwajna": {
+    "symbol": "bwajna",
+    "name": "bwajna",
+    "file": "bwajna.svg"
+  },
+  "bwt": {
+    "symbol": "bwt",
+    "name": "bwt",
+    "file": "bwt.svg"
+  },
+  "bz": {
+    "symbol": "bz",
+    "name": "bz",
+    "file": "bz.svg"
+  },
+  "bznt": {
+    "symbol": "bznt",
+    "name": "bznt",
+    "file": "bznt.svg"
+  },
+  "bzrx": {
+    "symbol": "bzrx",
+    "name": "bzrx",
+    "file": "bzrx.svg"
+  },
+  "c20": {
+    "symbol": "c20",
+    "name": "c20",
+    "file": "c20.svg"
+  },
+  "c98": {
+    "symbol": "c98",
+    "name": "c98",
+    "file": "c98.svg"
+  },
+  "cake": {
+    "symbol": "cake",
+    "name": "cake",
+    "file": "cake.svg"
+  },
+  "canto": {
+    "symbol": "canto",
+    "name": "canto",
+    "file": "canto.svg"
+  },
+  "cap": {
+    "symbol": "cap",
+    "name": "cap",
+    "file": "cap.svg"
+  },
+  "capp": {
+    "symbol": "capp",
+    "name": "capp",
+    "file": "capp.svg"
+  },
+  "car": {
+    "symbol": "car",
+    "name": "car",
+    "file": "car.svg"
+  },
+  "card": {
+    "symbol": "card",
+    "name": "card",
+    "file": "card.svg"
+  },
+  "cbat": {
+    "symbol": "cbat",
+    "name": "cbat",
+    "file": "cbat.svg"
+  },
+  "cbc": {
+    "symbol": "cbc",
+    "name": "cbc",
+    "file": "cbc.svg"
+  },
+  "cbeth": {
+    "symbol": "cbeth",
+    "name": "cbeth",
+    "file": "cbeth.svg"
+  },
+  "cbt": {
+    "symbol": "cbt",
+    "name": "cbt",
+    "file": "cbt.svg"
+  },
+  "cc": {
+    "symbol": "cc",
+    "name": "cc",
+    "file": "cc.svg"
+  },
+  "cccx": {
+    "symbol": "cccx",
+    "name": "cccx",
+    "file": "cccx.svg"
+  },
+  "cdai": {
+    "symbol": "cdai",
+    "name": "cdai",
+    "file": "cdai.svg"
+  },
+  "cdt": {
+    "symbol": "cdt",
+    "name": "cdt",
+    "file": "cdt.svg"
+  },
+  "ceek": {
+    "symbol": "ceek",
+    "name": "ceek",
+    "file": "ceek.svg"
+  },
+  "cel": {
+    "symbol": "cel",
+    "name": "cel",
+    "file": "cel.svg"
+  },
+  "celo": {
+    "symbol": "celo",
+    "name": "celo",
+    "file": "celo.svg"
+  },
+  "celr": {
+    "symbol": "celr",
+    "name": "celr",
+    "file": "celr.svg"
+  },
+  "cennz": {
+    "symbol": "cennz",
+    "name": "cennz",
+    "file": "cennz.svg"
+  },
+  "cet": {
+    "symbol": "cet",
+    "name": "cet",
+    "file": "cet.svg"
+  },
+  "ceth": {
+    "symbol": "ceth",
+    "name": "ceth",
+    "file": "ceth.svg"
+  },
+  "cfg": {
+    "symbol": "cfg",
+    "name": "cfg",
+    "file": "cfg.svg"
+  },
+  "cfx": {
+    "symbol": "cfx",
+    "name": "cfx",
+    "file": "cfx.svg"
+  },
+  "chai": {
+    "symbol": "chai",
+    "name": "chai",
+    "file": "chai.svg"
+  },
+  "chain": {
+    "symbol": "chain",
+    "name": "chain",
+    "file": "chain.svg"
+  },
+  "chat": {
+    "symbol": "chat",
+    "name": "chat",
+    "file": "chat.svg"
+  },
+  "chia": {
+    "symbol": "chia",
+    "name": "chia",
+    "file": "chia.svg"
+  },
+  "cho": {
+    "symbol": "cho",
+    "name": "cho",
+    "file": "cho.svg"
+  },
+  "chr": {
+    "symbol": "chr",
+    "name": "chr",
+    "file": "chr.svg"
+  },
+  "chsb": {
+    "symbol": "chsb",
+    "name": "chsb",
+    "file": "chsb.svg"
+  },
+  "chz": {
+    "symbol": "chz",
+    "name": "chz",
+    "file": "chz.svg"
+  },
+  "cirus": {
+    "symbol": "cirus",
+    "name": "cirus",
+    "file": "cirus.svg"
+  },
+  "ckb": {
+    "symbol": "ckb",
+    "name": "ckb",
+    "file": "ckb.svg"
+  },
+  "clo": {
+    "symbol": "clo",
+    "name": "clo",
+    "file": "clo.svg"
+  },
+  "cloak": {
+    "symbol": "cloak",
+    "name": "cloak",
+    "file": "cloak.svg"
+  },
+  "clout": {
+    "symbol": "clout",
+    "name": "clout",
+    "file": "clout.svg"
+  },
+  "cmt": {
+    "symbol": "cmt",
+    "name": "cmt",
+    "file": "cmt.svg"
+  },
+  "cnc": {
+    "symbol": "cnc",
+    "name": "cnc",
+    "file": "cnc.svg"
+  },
+  "cnd": {
+    "symbol": "cnd",
+    "name": "cnd",
+    "file": "cnd.svg"
+  },
+  "cnx": {
+    "symbol": "cnx",
+    "name": "cnx",
+    "file": "cnx.svg"
+  },
+  "coc": {
+    "symbol": "coc",
+    "name": "coc",
+    "file": "coc.svg"
+  },
+  "cocn": {
+    "symbol": "cocn",
+    "name": "cocn",
+    "file": "cocn.svg"
+  },
+  "comai": {
+    "symbol": "comai",
+    "name": "comai",
+    "file": "comai.svg"
+  },
+  "comp": {
+    "symbol": "comp",
+    "name": "comp",
+    "file": "comp.svg"
+  },
+  "coni": {
+    "symbol": "coni",
+    "name": "coni",
+    "file": "coni.svg"
+  },
+  "core": {
+    "symbol": "core",
+    "name": "core",
+    "file": "core.svg"
+  },
+  "cosm": {
+    "symbol": "cosm",
+    "name": "cosm",
+    "file": "cosm.svg"
+  },
+  "coti": {
+    "symbol": "coti",
+    "name": "coti",
+    "file": "coti.svg"
+  },
+  "cov": {
+    "symbol": "cov",
+    "name": "cov",
+    "file": "cov.svg"
+  },
+  "cova": {
+    "symbol": "cova",
+    "name": "cova",
+    "file": "cova.svg"
+  },
+  "cover": {
+    "symbol": "cover",
+    "name": "cover",
+    "file": "cover.svg"
+  },
+  "cpc": {
+    "symbol": "cpc",
+    "name": "cpc",
+    "file": "cpc.svg"
+  },
+  "cpx": {
+    "symbol": "cpx",
+    "name": "cpx",
+    "file": "cpx.svg"
+  },
+  "crd": {
+    "symbol": "crd",
+    "name": "crd",
+    "file": "crd.svg"
+  },
+  "cre-2": {
+    "symbol": "cre-2",
+    "name": "cre-2",
+    "file": "cre-2.svg"
+  },
+  "cre": {
+    "symbol": "cre",
+    "name": "cre",
+    "file": "cre.svg"
+  },
+  "cream": {
+    "symbol": "cream",
+    "name": "cream",
+    "file": "cream.svg"
+  },
+  "cred": {
+    "symbol": "cred",
+    "name": "cred",
+    "file": "cred.svg"
+  },
+  "crep": {
+    "symbol": "crep",
+    "name": "crep",
+    "file": "crep.svg"
+  },
+  "cro": {
+    "symbol": "cro",
+    "name": "cro",
+    "file": "cro.svg"
+  },
+  "crpt": {
+    "symbol": "crpt",
+    "name": "crpt",
+    "file": "crpt.svg"
+  },
+  "crv": {
+    "symbol": "crv",
+    "name": "crv",
+    "file": "crv.svg"
+  },
+  "crvusd": {
+    "symbol": "crvusd",
+    "name": "crvusd",
+    "file": "crvusd.svg"
+  },
+  "cs": {
+    "symbol": "cs",
+    "name": "cs",
+    "file": "cs.svg"
+  },
+  "csai": {
+    "symbol": "csai",
+    "name": "csai",
+    "file": "csai.svg"
+  },
+  "csc": {
+    "symbol": "csc",
+    "name": "csc",
+    "file": "csc.svg"
+  },
+  "cspr": {
+    "symbol": "cspr",
+    "name": "cspr",
+    "file": "cspr.svg"
+  },
+  "ctc": {
+    "symbol": "ctc",
+    "name": "ctc",
+    "file": "ctc.svg"
+  },
+  "ctsi": {
+    "symbol": "ctsi",
+    "name": "ctsi",
+    "file": "ctsi.svg"
+  },
+  "ctxc": {
+    "symbol": "ctxc",
+    "name": "ctxc",
+    "file": "ctxc.svg"
+  },
+  "cube": {
+    "symbol": "cube",
+    "name": "cube",
+    "file": "cube.svg"
+  },
+  "cusdc": {
+    "symbol": "cusdc",
+    "name": "cusdc",
+    "file": "cusdc.svg"
+  },
+  "cv": {
+    "symbol": "cv",
+    "name": "cv",
+    "file": "cv.svg"
+  },
+  "cvc": {
+    "symbol": "cvc",
+    "name": "cvc",
+    "file": "cvc.svg"
+  },
+  "cvp": {
+    "symbol": "cvp",
+    "name": "cvp",
+    "file": "cvp.svg"
+  },
+  "cvt": {
+    "symbol": "cvt",
+    "name": "cvt",
+    "file": "cvt.svg"
+  },
+  "cvx": {
+    "symbol": "cvx",
+    "name": "cvx",
+    "file": "cvx.svg"
+  },
+  "cwbtc": {
+    "symbol": "cwbtc",
+    "name": "cwbtc",
+    "file": "cwbtc.svg"
+  },
+  "cyber": {
+    "symbol": "cyber",
+    "name": "cyber",
+    "file": "cyber.svg"
+  },
+  "czrx": {
+    "symbol": "czrx",
+    "name": "czrx",
+    "file": "czrx.svg"
+  },
+  "d2": {
+    "symbol": "d2",
+    "name": "d2",
+    "file": "d2.svg"
+  },
+  "dadi": {
+    "symbol": "dadi",
+    "name": "dadi",
+    "file": "dadi.svg"
+  },
+  "dafi": {
+    "symbol": "dafi",
+    "name": "dafi",
+    "file": "dafi.svg"
+  },
+  "dag": {
+    "symbol": "dag",
+    "name": "dag",
+    "file": "dag.svg"
+  },
+  "dai": {
+    "symbol": "dai",
+    "name": "dai",
+    "file": "dai.svg"
+  },
+  "dao": {
+    "symbol": "dao",
+    "name": "dao",
+    "file": "dao.svg"
+  },
+  "dasc": {
+    "symbol": "dasc",
+    "name": "dasc",
+    "file": "dasc.svg"
+  },
+  "dash": {
+    "symbol": "dash",
+    "name": "dash",
+    "file": "dash.svg"
+  },
+  "dat": {
+    "symbol": "dat",
+    "name": "dat",
+    "file": "dat.svg"
+  },
+  "data": {
+    "symbol": "data",
+    "name": "data",
+    "file": "data.svg"
+  },
+  "datx": {
+    "symbol": "datx",
+    "name": "datx",
+    "file": "datx.svg"
+  },
+  "dbc": {
+    "symbol": "dbc",
+    "name": "dbc",
+    "file": "dbc.svg"
+  },
+  "dcb": {
+    "symbol": "dcb",
+    "name": "dcb",
+    "file": "dcb.svg"
+  },
+  "dcc": {
+    "symbol": "dcc",
+    "name": "dcc",
+    "file": "dcc.svg"
+  },
+  "dck": {
+    "symbol": "dck",
+    "name": "dck",
+    "file": "dck.svg"
+  },
+  "dcn": {
+    "symbol": "dcn",
+    "name": "dcn",
+    "file": "dcn.svg"
+  },
+  "dcr": {
+    "symbol": "dcr",
+    "name": "dcr",
+    "file": "dcr.svg"
+  },
+  "dct": {
+    "symbol": "dct",
+    "name": "dct",
+    "file": "dct.svg"
+  },
+  "ddd": {
+    "symbol": "ddd",
+    "name": "ddd",
+    "file": "ddd.svg"
+  },
+  "del": {
+    "symbol": "del",
+    "name": "del",
+    "file": "del.svg"
+  },
+  "dent": {
+    "symbol": "dent",
+    "name": "dent",
+    "file": "dent.svg"
+  },
+  "dep": {
+    "symbol": "dep",
+    "name": "dep",
+    "file": "dep.svg"
+  },
+  "deri": {
+    "symbol": "deri",
+    "name": "deri",
+    "file": "deri.svg"
+  },
+  "deso": {
+    "symbol": "deso",
+    "name": "deso",
+    "file": "deso.svg"
+  },
+  "dexe-2": {
+    "symbol": "dexe-2",
+    "name": "dexe-2",
+    "file": "dexe-2.svg"
+  },
+  "dexe": {
+    "symbol": "dexe",
+    "name": "dexe",
+    "file": "dexe.svg"
+  },
+  "df": {
+    "symbol": "df",
+    "name": "df",
+    "file": "df.svg"
+  },
+  "dfi": {
+    "symbol": "dfi",
+    "name": "dfi",
+    "file": "dfi.svg"
+  },
+  "dft": {
+    "symbol": "dft",
+    "name": "dft",
+    "file": "dft.svg"
+  },
+  "dfyn": {
+    "symbol": "dfyn",
+    "name": "dfyn",
+    "file": "dfyn.svg"
+  },
+  "dgb": {
+    "symbol": "dgb",
+    "name": "dgb",
+    "file": "dgb.svg"
+  },
+  "dgd": {
+    "symbol": "dgd",
+    "name": "dgd",
+    "file": "dgd.svg"
+  },
+  "dgtx": {
+    "symbol": "dgtx",
+    "name": "dgtx",
+    "file": "dgtx.svg"
+  },
+  "dht": {
+    "symbol": "dht",
+    "name": "dht",
+    "file": "dht.svg"
+  },
+  "dia": {
+    "symbol": "dia",
+    "name": "dia",
+    "file": "dia.svg"
+  },
+  "dinero": {
+    "symbol": "dinero",
+    "name": "dinero",
+    "file": "dinero.svg"
+  },
+  "divi": {
+    "symbol": "divi",
+    "name": "divi",
+    "file": "divi.svg"
+  },
+  "dlt": {
+    "symbol": "dlt",
+    "name": "dlt",
+    "file": "dlt.svg"
+  },
+  "dmt": {
+    "symbol": "dmt",
+    "name": "dmt",
+    "file": "dmt.svg"
+  },
+  "dmtr": {
+    "symbol": "dmtr",
+    "name": "dmtr",
+    "file": "dmtr.svg"
+  },
+  "dnt": {
+    "symbol": "dnt",
+    "name": "dnt",
+    "file": "dnt.svg"
+  },
+  "dock": {
+    "symbol": "dock",
+    "name": "dock",
+    "file": "dock.svg"
+  },
+  "dodo": {
+    "symbol": "dodo",
+    "name": "dodo",
+    "file": "dodo.svg"
+  },
+  "doge": {
+    "symbol": "doge",
+    "name": "doge",
+    "file": "doge.svg"
+  },
+  "dogs": {
+    "symbol": "dogs",
+    "name": "dogs",
+    "file": "dogs.svg"
+  },
+  "dojo": {
+    "symbol": "dojo",
+    "name": "dojo",
+    "file": "dojo.svg"
+  },
+  "dome": {
+    "symbol": "dome",
+    "name": "dome",
+    "file": "dome.svg"
+  },
+  "dor": {
+    "symbol": "dor",
+    "name": "dor",
+    "file": "dor.svg"
+  },
+  "dot": {
+    "symbol": "dot",
+    "name": "dot",
+    "file": "dot.svg"
+  },
+  "drgn": {
+    "symbol": "drgn",
+    "name": "drgn",
+    "file": "drgn.svg"
+  },
+  "drop": {
+    "symbol": "drop",
+    "name": "drop",
+    "file": "drop.svg"
+  },
+  "dta": {
+    "symbol": "dta",
+    "name": "dta",
+    "file": "dta.svg"
+  },
+  "dtr": {
+    "symbol": "dtr",
+    "name": "dtr",
+    "file": "dtr.svg"
+  },
+  "dtx": {
+    "symbol": "dtx",
+    "name": "dtx",
+    "file": "dtx.svg"
+  },
+  "duck": {
+    "symbol": "duck",
+    "name": "duck",
+    "file": "duck.svg"
+  },
+  "dvf": {
+    "symbol": "dvf",
+    "name": "dvf",
+    "file": "dvf.svg"
+  },
+  "dxd": {
+    "symbol": "dxd",
+    "name": "dxd",
+    "file": "dxd.svg"
+  },
+  "dxt": {
+    "symbol": "dxt",
+    "name": "dxt",
+    "file": "dxt.svg"
+  },
+  "dydx": {
+    "symbol": "dydx",
+    "name": "dydx",
+    "file": "dydx.svg"
+  },
+  "eco": {
+    "symbol": "eco",
+    "name": "eco",
+    "file": "eco.svg"
+  },
+  "edg": {
+    "symbol": "edg",
+    "name": "edg",
+    "file": "edg.svg"
+  },
+  "edo": {
+    "symbol": "edo",
+    "name": "edo",
+    "file": "edo.svg"
+  },
+  "edu": {
+    "symbol": "edu",
+    "name": "edu",
+    "file": "edu.svg"
+  },
+  "efi": {
+    "symbol": "efi",
+    "name": "efi",
+    "file": "efi.svg"
+  },
+  "efx": {
+    "symbol": "efx",
+    "name": "efx",
+    "file": "efx.svg"
+  },
+  "egld": {
+    "symbol": "egld",
+    "name": "egld",
+    "file": "egld.svg"
+  },
+  "egld2": {
+    "symbol": "egld2",
+    "name": "egld2",
+    "file": "egld2.svg"
+  },
+  "egt": {
+    "symbol": "egt",
+    "name": "egt",
+    "file": "egt.svg"
+  },
+  "ekg": {
+    "symbol": "ekg",
+    "name": "ekg",
+    "file": "ekg.svg"
+  },
+  "ekt": {
+    "symbol": "ekt",
+    "name": "ekt",
+    "file": "ekt.svg"
+  },
+  "ela": {
+    "symbol": "ela",
+    "name": "ela",
+    "file": "ela.svg"
+  },
+  "elan": {
+    "symbol": "elan",
+    "name": "elan",
+    "file": "elan.svg"
+  },
+  "elec": {
+    "symbol": "elec",
+    "name": "elec",
+    "file": "elec.svg"
+  },
+  "elf": {
+    "symbol": "elf",
+    "name": "elf",
+    "file": "elf.svg"
+  },
+  "elg": {
+    "symbol": "elg",
+    "name": "elg",
+    "file": "elg.svg"
+  },
+  "emc": {
+    "symbol": "emc",
+    "name": "emc",
+    "file": "emc.svg"
+  },
+  "emc2": {
+    "symbol": "emc2",
+    "name": "emc2",
+    "file": "emc2.svg"
+  },
+  "ena": {
+    "symbol": "ena",
+    "name": "ena",
+    "file": "ena.svg"
+  },
+  "eng": {
+    "symbol": "eng",
+    "name": "eng",
+    "file": "eng.svg"
+  },
+  "enix": {
+    "symbol": "enix",
+    "name": "enix",
+    "file": "enix.svg"
+  },
+  "enj": {
+    "symbol": "enj",
+    "name": "enj",
+    "file": "enj.svg"
+  },
+  "ens": {
+    "symbol": "ens",
+    "name": "ens",
+    "file": "ens.svg"
+  },
+  "ents": {
+    "symbol": "ents",
+    "name": "ents",
+    "file": "ents.svg"
+  },
+  "eos": {
+    "symbol": "eos",
+    "name": "eos",
+    "file": "eos.svg"
+  },
+  "eosdac": {
+    "symbol": "eosdac",
+    "name": "eosdac",
+    "file": "eosdac.svg"
+  },
+  "eqb": {
+    "symbol": "eqb",
+    "name": "eqb",
+    "file": "eqb.svg"
+  },
+  "erg": {
+    "symbol": "erg",
+    "name": "erg",
+    "file": "erg.svg"
+  },
+  "ern": {
+    "symbol": "ern",
+    "name": "ern",
+    "file": "ern.svg"
+  },
+  "esd": {
+    "symbol": "esd",
+    "name": "esd",
+    "file": "esd.svg"
+  },
+  "esp": {
+    "symbol": "esp",
+    "name": "esp",
+    "file": "esp.svg"
+  },
+  "ess": {
+    "symbol": "ess",
+    "name": "ess",
+    "file": "ess.svg"
+  },
+  "etc": {
+    "symbol": "etc",
+    "name": "etc",
+    "file": "etc.svg"
+  },
+  "eth": {
+    "symbol": "eth",
+    "name": "eth",
+    "file": "eth.svg"
+  },
+  "ethw": {
+    "symbol": "ethw",
+    "name": "ethw",
+    "file": "ethw.svg"
+  },
+  "etn": {
+    "symbol": "etn",
+    "name": "etn",
+    "file": "etn.svg"
+  },
+  "etp": {
+    "symbol": "etp",
+    "name": "etp",
+    "file": "etp.svg"
+  },
+  "etz": {
+    "symbol": "etz",
+    "name": "etz",
+    "file": "etz.svg"
+  },
+  "euroc": {
+    "symbol": "euroc",
+    "name": "euroc",
+    "file": "euroc.svg"
+  },
+  "ever": {
+    "symbol": "ever",
+    "name": "ever",
+    "file": "ever.svg"
+  },
+  "evmos": {
+    "symbol": "evmos",
+    "name": "evmos",
+    "file": "evmos.svg"
+  },
+  "evx": {
+    "symbol": "evx",
+    "name": "evx",
+    "file": "evx.svg"
+  },
+  "ewt": {
+    "symbol": "ewt",
+    "name": "ewt",
+    "file": "ewt.svg"
+  },
+  "exrn": {
+    "symbol": "exrn",
+    "name": "exrn",
+    "file": "exrn.svg"
+  },
+  "exy": {
+    "symbol": "exy",
+    "name": "exy",
+    "file": "exy.svg"
+  },
+  "ezy": {
+    "symbol": "ezy",
+    "name": "ezy",
+    "file": "ezy.svg"
+  },
+  "fab": {
+    "symbol": "fab",
+    "name": "fab",
+    "file": "fab.svg"
+  },
+  "fame": {
+    "symbol": "fame",
+    "name": "fame",
+    "file": "fame.svg"
+  },
+  "farm": {
+    "symbol": "farm",
+    "name": "farm",
+    "file": "farm.svg"
+  },
+  "fct": {
+    "symbol": "fct",
+    "name": "fct",
+    "file": "fct.svg"
+  },
+  "fdusd": {
+    "symbol": "fdusd",
+    "name": "fdusd",
+    "file": "fdusd.svg"
+  },
+  "feed": {
+    "symbol": "feed",
+    "name": "feed",
+    "file": "feed.svg"
+  },
+  "fei": {
+    "symbol": "fei",
+    "name": "fei",
+    "file": "fei.svg"
+  },
+  "fet": {
+    "symbol": "fet",
+    "name": "fet",
+    "file": "fet.svg"
+  },
+  "fida": {
+    "symbol": "fida",
+    "name": "fida",
+    "file": "fida.svg"
+  },
+  "fidu": {
+    "symbol": "fidu",
+    "name": "fidu",
+    "file": "fidu.svg"
+  },
+  "fil": {
+    "symbol": "fil",
+    "name": "fil",
+    "file": "fil.svg"
+  },
+  "filda": {
+    "symbol": "filda",
+    "name": "filda",
+    "file": "filda.svg"
+  },
+  "fis": {
+    "symbol": "fis",
+    "name": "fis",
+    "file": "fis.svg"
+  },
+  "flash": {
+    "symbol": "flash",
+    "name": "flash",
+    "file": "flash.svg"
+  },
+  "flex": {
+    "symbol": "flex",
+    "name": "flex",
+    "file": "flex.svg"
+  },
+  "floki": {
+    "symbol": "floki",
+    "name": "floki",
+    "file": "floki.svg"
+  },
+  "flow": {
+    "symbol": "flow",
+    "name": "flow",
+    "file": "flow.svg"
+  },
+  "flr": {
+    "symbol": "flr",
+    "name": "flr",
+    "file": "flr.svg"
+  },
+  "flux": {
+    "symbol": "flux",
+    "name": "flux",
+    "file": "flux.svg"
+  },
+  "fnsa": {
+    "symbol": "fnsa",
+    "name": "fnsa",
+    "file": "fnsa.svg"
+  },
+  "foam": {
+    "symbol": "foam",
+    "name": "foam",
+    "file": "foam.svg"
+  },
+  "fold": {
+    "symbol": "fold",
+    "name": "fold",
+    "file": "fold.svg"
+  },
+  "fota": {
+    "symbol": "fota",
+    "name": "fota",
+    "file": "fota.svg"
+  },
+  "fox": {
+    "symbol": "fox",
+    "name": "fox",
+    "file": "fox.svg"
+  },
+  "fpi": {
+    "symbol": "fpi",
+    "name": "fpi",
+    "file": "fpi.svg"
+  },
+  "fpis": {
+    "symbol": "fpis",
+    "name": "fpis",
+    "file": "fpis.svg"
+  },
+  "frax": {
+    "symbol": "frax",
+    "name": "frax",
+    "file": "frax.svg"
+  },
+  "frm": {
+    "symbol": "frm",
+    "name": "frm",
+    "file": "frm.svg"
+  },
+  "front": {
+    "symbol": "front",
+    "name": "front",
+    "file": "front.svg"
+  },
+  "frxeth": {
+    "symbol": "frxeth",
+    "name": "frxeth",
+    "file": "frxeth.svg"
+  },
+  "fsn": {
+    "symbol": "fsn",
+    "name": "fsn",
+    "file": "fsn.svg"
+  },
+  "fst": {
+    "symbol": "fst",
+    "name": "fst",
+    "file": "fst.svg"
+  },
+  "ft": {
+    "symbol": "ft",
+    "name": "ft",
+    "file": "ft.svg"
+  },
+  "ftc": {
+    "symbol": "ftc",
+    "name": "ftc",
+    "file": "ftc.svg"
+  },
+  "ftm": {
+    "symbol": "ftm",
+    "name": "ftm",
+    "file": "ftm.svg"
+  },
+  "ftt": {
+    "symbol": "ftt",
+    "name": "ftt",
+    "file": "ftt.svg"
+  },
+  "fuel": {
+    "symbol": "fuel",
+    "name": "fuel",
+    "file": "fuel.svg"
+  },
+  "fun": {
+    "symbol": "fun",
+    "name": "fun",
+    "file": "fun.svg"
+  },
+  "fx": {
+    "symbol": "fx",
+    "name": "fx",
+    "file": "fx.svg"
+  },
+  "fxc": {
+    "symbol": "fxc",
+    "name": "fxc",
+    "file": "fxc.svg"
+  },
+  "fxs": {
+    "symbol": "fxs",
+    "name": "fxs",
+    "file": "fxs.svg"
+  },
+  "fxt": {
+    "symbol": "fxt",
+    "name": "fxt",
+    "file": "fxt.svg"
+  },
+  "gal": {
+    "symbol": "gal",
+    "name": "gal",
+    "file": "gal.svg"
+  },
+  "gala": {
+    "symbol": "gala",
+    "name": "gala",
+    "file": "gala.svg"
+  },
+  "gamma": {
+    "symbol": "gamma",
+    "name": "gamma",
+    "file": "gamma.svg"
+  },
+  "gb": {
+    "symbol": "gb",
+    "name": "gb",
+    "file": "gb.svg"
+  },
+  "gdc": {
+    "symbol": "gdc",
+    "name": "gdc",
+    "file": "gdc.svg"
+  },
+  "gem": {
+    "symbol": "gem",
+    "name": "gem",
+    "file": "gem.svg"
+  },
+  "gen": {
+    "symbol": "gen",
+    "name": "gen",
+    "file": "gen.svg"
+  },
+  "gho": {
+    "symbol": "gho",
+    "name": "gho",
+    "file": "gho.svg"
+  },
+  "giv": {
+    "symbol": "giv",
+    "name": "giv",
+    "file": "giv.svg"
+  },
+  "glmr": {
+    "symbol": "glmr",
+    "name": "glmr",
+    "file": "glmr.svg"
+  },
+  "gmee": {
+    "symbol": "gmee",
+    "name": "gmee",
+    "file": "gmee.svg"
+  },
+  "gmt-2": {
+    "symbol": "gmt-2",
+    "name": "gmt-2",
+    "file": "gmt-2.svg"
+  },
+  "gmt": {
+    "symbol": "gmt",
+    "name": "gmt",
+    "file": "gmt.svg"
+  },
+  "gmx": {
+    "symbol": "gmx",
+    "name": "gmx",
+    "file": "gmx.svg"
+  },
+  "gno": {
+    "symbol": "gno",
+    "name": "gno",
+    "file": "gno.svg"
+  },
+  "gns": {
+    "symbol": "gns",
+    "name": "gns",
+    "file": "gns.svg"
+  },
+  "gnt": {
+    "symbol": "gnt",
+    "name": "gnt",
+    "file": "gnt.svg"
+  },
+  "gnx": {
+    "symbol": "gnx",
+    "name": "gnx",
+    "file": "gnx.svg"
+  },
+  "go": {
+    "symbol": "go",
+    "name": "go",
+    "file": "go.svg"
+  },
+  "goc": {
+    "symbol": "goc",
+    "name": "goc",
+    "file": "goc.svg"
+  },
+  "got": {
+    "symbol": "got",
+    "name": "got",
+    "file": "got.svg"
+  },
+  "govi": {
+    "symbol": "govi",
+    "name": "govi",
+    "file": "govi.svg"
+  },
+  "grail": {
+    "symbol": "grail",
+    "name": "grail",
+    "file": "grail.svg"
+  },
+  "grin": {
+    "symbol": "grin",
+    "name": "grin",
+    "file": "grin.svg"
+  },
+  "grow": {
+    "symbol": "grow",
+    "name": "grow",
+    "file": "grow.svg"
+  },
+  "grp": {
+    "symbol": "grp",
+    "name": "grp",
+    "file": "grp.svg"
+  },
+  "grs": {
+    "symbol": "grs",
+    "name": "grs",
+    "file": "grs.svg"
+  },
+  "grt": {
+    "symbol": "grt",
+    "name": "grt",
+    "file": "grt.svg"
+  },
+  "gsc": {
+    "symbol": "gsc",
+    "name": "gsc",
+    "file": "gsc.svg"
+  },
+  "gswap": {
+    "symbol": "gswap",
+    "name": "gswap",
+    "file": "gswap.svg"
+  },
+  "gt": {
+    "symbol": "gt",
+    "name": "gt",
+    "file": "gt.svg"
+  },
+  "gtai": {
+    "symbol": "gtai",
+    "name": "gtai",
+    "file": "gtai.svg"
+  },
+  "gtc-2": {
+    "symbol": "gtc-2",
+    "name": "gtc-2",
+    "file": "gtc-2.svg"
+  },
+  "gtc": {
+    "symbol": "gtc",
+    "name": "gtc",
+    "file": "gtc.svg"
+  },
+  "gto": {
+    "symbol": "gto",
+    "name": "gto",
+    "file": "gto.svg"
+  },
+  "gusd": {
+    "symbol": "gusd",
+    "name": "gusd",
+    "file": "gusd.svg"
+  },
+  "gvt": {
+    "symbol": "gvt",
+    "name": "gvt",
+    "file": "gvt.svg"
+  },
+  "gxs": {
+    "symbol": "gxs",
+    "name": "gxs",
+    "file": "gxs.svg"
+  },
+  "gyen": {
+    "symbol": "gyen",
+    "name": "gyen",
+    "file": "gyen.svg"
+  },
+  "h": {
+    "symbol": "h",
+    "name": "h",
+    "file": "h.svg"
+  },
+  "hair": {
+    "symbol": "hair",
+    "name": "hair",
+    "file": "hair.svg"
+  },
+  "hakka": {
+    "symbol": "hakka",
+    "name": "hakka",
+    "file": "hakka.svg"
+  },
+  "han": {
+    "symbol": "han",
+    "name": "han",
+    "file": "han.svg"
+  },
+  "hanep": {
+    "symbol": "hanep",
+    "name": "hanep",
+    "file": "hanep.svg"
+  },
+  "hav": {
+    "symbol": "hav",
+    "name": "hav",
+    "file": "hav.svg"
+  },
+  "hbar": {
+    "symbol": "hbar",
+    "name": "hbar",
+    "file": "hbar.svg"
+  },
+  "hc": {
+    "symbol": "hc",
+    "name": "hc",
+    "file": "hc.svg"
+  },
+  "heart": {
+    "symbol": "heart",
+    "name": "heart",
+    "file": "heart.svg"
+  },
+  "hedg": {
+    "symbol": "hedg",
+    "name": "hedg",
+    "file": "hedg.svg"
+  },
+  "hegic": {
+    "symbol": "hegic",
+    "name": "hegic",
+    "file": "hegic.svg"
+  },
+  "her": {
+    "symbol": "her",
+    "name": "her",
+    "file": "her.svg"
+  },
+  "hex": {
+    "symbol": "hex",
+    "name": "hex",
+    "file": "hex.svg"
+  },
+  "hft": {
+    "symbol": "hft",
+    "name": "hft",
+    "file": "hft.svg"
+  },
+  "high": {
+    "symbol": "high",
+    "name": "high",
+    "file": "high.svg"
+  },
+  "hive": {
+    "symbol": "hive",
+    "name": "hive",
+    "file": "hive.svg"
+  },
+  "hnt": {
+    "symbol": "hnt",
+    "name": "hnt",
+    "file": "hnt.svg"
+  },
+  "hot-x": {
+    "symbol": "hot-x",
+    "name": "hot-x",
+    "file": "hot-x.svg"
+  },
+  "hot": {
+    "symbol": "hot",
+    "name": "hot",
+    "file": "hot.svg"
+  },
+  "hpb": {
+    "symbol": "hpb",
+    "name": "hpb",
+    "file": "hpb.svg"
+  },
+  "hsr": {
+    "symbol": "hsr",
+    "name": "hsr",
+    "file": "hsr.svg"
+  },
+  "ht": {
+    "symbol": "ht",
+    "name": "ht",
+    "file": "ht.svg"
+  },
+  "hum": {
+    "symbol": "hum",
+    "name": "hum",
+    "file": "hum.svg"
+  },
+  "husd": {
+    "symbol": "husd",
+    "name": "husd",
+    "file": "husd.svg"
+  },
+  "hvn": {
+    "symbol": "hvn",
+    "name": "hvn",
+    "file": "hvn.svg"
+  },
+  "hxro": {
+    "symbol": "hxro",
+    "name": "hxro",
+    "file": "hxro.svg"
+  },
+  "hydro": {
+    "symbol": "hydro",
+    "name": "hydro",
+    "file": "hydro.svg"
+  },
+  "hyn": {
+    "symbol": "hyn",
+    "name": "hyn",
+    "file": "hyn.svg"
+  },
+  "hype": {
+    "symbol": "hype",
+    "name": "hype",
+    "file": "hype.svg"
+  },
+  "hzn": {
+    "symbol": "hzn",
+    "name": "hzn",
+    "file": "hzn.svg"
+  },
+  "ibat": {
+    "symbol": "ibat",
+    "name": "ibat",
+    "file": "ibat.svg"
+  },
+  "ice": {
+    "symbol": "ice",
+    "name": "ice",
+    "file": "ice.svg"
+  },
+  "icn": {
+    "symbol": "icn",
+    "name": "icn",
+    "file": "icn.svg"
+  },
+  "icp": {
+    "symbol": "icp",
+    "name": "icp",
+    "file": "icp.svg"
+  },
+  "icx": {
+    "symbol": "icx",
+    "name": "icx",
+    "file": "icx.svg"
+  },
+  "id": {
+    "symbol": "id",
+    "name": "id",
+    "file": "id.svg"
+  },
+  "idai": {
+    "symbol": "idai",
+    "name": "idai",
+    "file": "idai.svg"
+  },
+  "idex": {
+    "symbol": "idex",
+    "name": "idex",
+    "file": "idex.svg"
+  },
+  "ieth": {
+    "symbol": "ieth",
+    "name": "ieth",
+    "file": "ieth.svg"
+  },
+  "ifarm": {
+    "symbol": "ifarm",
+    "name": "ifarm",
+    "file": "ifarm.svg"
+  },
+  "ignis": {
+    "symbol": "ignis",
+    "name": "ignis",
+    "file": "ignis.svg"
+  },
+  "iknc": {
+    "symbol": "iknc",
+    "name": "iknc",
+    "file": "iknc.svg"
+  },
+  "ilink": {
+    "symbol": "ilink",
+    "name": "ilink",
+    "file": "ilink.svg"
+  },
+  "ilv": {
+    "symbol": "ilv",
+    "name": "ilv",
+    "file": "ilv.svg"
+  },
+  "imx": {
+    "symbol": "imx",
+    "name": "imx",
+    "file": "imx.svg"
+  },
+  "inb": {
+    "symbol": "inb",
+    "name": "inb",
+    "file": "inb.svg"
+  },
+  "inj": {
+    "symbol": "inj",
+    "name": "inj",
+    "file": "inj.svg"
+  },
+  "ins": {
+    "symbol": "ins",
+    "name": "ins",
+    "file": "ins.svg"
+  },
+  "instar": {
+    "symbol": "instar",
+    "name": "instar",
+    "file": "instar.svg"
+  },
+  "iost": {
+    "symbol": "iost",
+    "name": "资源 7xhdpi",
+    "file": "iost.svg"
+  },
+  "iota": {
+    "symbol": "iota",
+    "name": "iota",
+    "file": "iota.svg"
+  },
+  "iotx": {
+    "symbol": "iotx",
+    "name": "iotx",
+    "file": "iotx.svg"
+  },
+  "iq-2": {
+    "symbol": "iq-2",
+    "name": "iq-2",
+    "file": "iq-2.svg"
+  },
+  "iq": {
+    "symbol": "iq",
+    "name": "iq",
+    "file": "iq.svg"
+  },
+  "irep": {
+    "symbol": "irep",
+    "name": "irep",
+    "file": "irep.svg"
+  },
+  "iris": {
+    "symbol": "iris",
+    "name": "iris",
+    "file": "iris.svg"
+  },
+  "isai": {
+    "symbol": "isai",
+    "name": "isai",
+    "file": "isai.svg"
+  },
+  "ist": {
+    "symbol": "ist",
+    "name": "ist",
+    "file": "ist.svg"
+  },
+  "isusd": {
+    "symbol": "isusd",
+    "name": "isusd",
+    "file": "isusd.svg"
+  },
+  "iusdc": {
+    "symbol": "iusdc",
+    "name": "iusdc",
+    "file": "iusdc.svg"
+  },
+  "iwbtc": {
+    "symbol": "iwbtc",
+    "name": "iwbtc",
+    "file": "iwbtc.svg"
+  },
+  "ixt": {
+    "symbol": "ixt",
+    "name": "ixt",
+    "file": "ixt.svg"
+  },
+  "izrx": {
+    "symbol": "izrx",
+    "name": "izrx",
+    "file": "izrx.svg"
+  },
+  "jnt": {
+    "symbol": "jnt",
+    "name": "jnt",
+    "file": "jnt.svg"
+  },
+  "jrt": {
+    "symbol": "jrt",
+    "name": "jrt",
+    "file": "jrt.svg"
+  },
+  "jst": {
+    "symbol": "jst",
+    "name": "jst",
+    "file": "jst.svg"
+  },
+  "jto": {
+    "symbol": "jto",
+    "name": "jto",
+    "file": "jto.svg"
+  },
+  "juno": {
+    "symbol": "juno",
+    "name": "juno",
+    "file": "juno.svg"
+  },
+  "jup": {
+    "symbol": "jup",
+    "name": "jup",
+    "file": "jup.svg"
+  },
+  "kas": {
+    "symbol": "kas",
+    "name": "kas",
+    "file": "kas.svg"
+  },
+  "kava": {
+    "symbol": "kava",
+    "name": "kava",
+    "file": "kava.svg"
+  },
+  "kcs": {
+    "symbol": "kcs",
+    "name": "kcs",
+    "file": "kcs.svg"
+  },
+  "kda": {
+    "symbol": "kda",
+    "name": "kda",
+    "file": "kda.svg"
+  },
+  "keep": {
+    "symbol": "keep",
+    "name": "keep",
+    "file": "keep.svg"
+  },
+  "key": {
+    "symbol": "key",
+    "name": "key",
+    "file": "key.svg"
+  },
+  "kick": {
+    "symbol": "kick",
+    "name": "kick",
+    "file": "kick.svg"
+  },
+  "kin": {
+    "symbol": "kin",
+    "name": "kin",
+    "file": "kin.svg"
+  },
+  "kira": {
+    "symbol": "kira",
+    "name": "kira",
+    "file": "kira.svg"
+  },
+  "kiro": {
+    "symbol": "kiro",
+    "name": "kiro",
+    "file": "kiro.svg"
+  },
+  "kiwi": {
+    "symbol": "kiwi",
+    "name": "kiwi",
+    "file": "kiwi.svg"
+  },
+  "klay": {
+    "symbol": "klay",
+    "name": "klay",
+    "file": "klay.svg"
+  },
+  "klv": {
+    "symbol": "klv",
+    "name": "klv",
+    "file": "klv.svg"
+  },
+  "kmd": {
+    "symbol": "kmd",
+    "name": "kmd",
+    "file": "kmd.svg"
+  },
+  "knc": {
+    "symbol": "knc",
+    "name": "knc",
+    "file": "knc.svg"
+  },
+  "ksm": {
+    "symbol": "ksm",
+    "name": "ksm",
+    "file": "ksm.svg"
+  },
+  "ktn": {
+    "symbol": "ktn",
+    "name": "ktn",
+    "file": "ktn.svg"
+  },
+  "kub": {
+    "symbol": "kub",
+    "name": "kub",
+    "file": "kub.svg"
+  },
+  "kuji": {
+    "symbol": "kuji",
+    "name": "kuji",
+    "file": "kuji.svg"
+  },
+  "lamb": {
+    "symbol": "lamb",
+    "name": "lamb",
+    "file": "lamb.svg"
+  },
+  "land": {
+    "symbol": "land",
+    "name": "land",
+    "file": "land.svg"
+  },
+  "lba": {
+    "symbol": "lba",
+    "name": "lba",
+    "file": "lba.svg"
+  },
+  "lcx": {
+    "symbol": "lcx",
+    "name": "lcx",
+    "file": "lcx.svg"
+  },
+  "ldo": {
+    "symbol": "ldo",
+    "name": "ldo",
+    "file": "ldo.svg"
+  },
+  "lend": {
+    "symbol": "lend",
+    "name": "lend",
+    "file": "lend.svg"
+  },
+  "leo": {
+    "symbol": "leo",
+    "name": "leo",
+    "file": "leo.svg"
+  },
+  "lien": {
+    "symbol": "lien",
+    "name": "lien",
+    "file": "lien.svg"
+  },
+  "link": {
+    "symbol": "link",
+    "name": "link",
+    "file": "link.svg"
+  },
+  "lit": {
+    "symbol": "lit",
+    "name": "lit",
+    "file": "lit.svg"
+  },
+  "lky": {
+    "symbol": "lky",
+    "name": "lky",
+    "file": "lky.svg"
+  },
+  "ln": {
+    "symbol": "ln",
+    "name": "ln",
+    "file": "ln.svg"
+  },
+  "lode": {
+    "symbol": "lode",
+    "name": "lode",
+    "file": "lode.svg"
+  },
+  "loki": {
+    "symbol": "loki",
+    "name": "loki",
+    "file": "loki.svg"
+  },
+  "lon": {
+    "symbol": "lon",
+    "name": "lon",
+    "file": "lon.svg"
+  },
+  "looks": {
+    "symbol": "looks",
+    "name": "looks",
+    "file": "looks.svg"
+  },
+  "loom": {
+    "symbol": "loom",
+    "name": "loom",
+    "file": "loom.svg"
+  },
+  "lpf": {
+    "symbol": "lpf",
+    "name": "lpf",
+    "file": "lpf.svg"
+  },
+  "lpt": {
+    "symbol": "lpt",
+    "name": "lpt",
+    "file": "lpt.svg"
+  },
+  "lqd": {
+    "symbol": "lqd",
+    "name": "lqd",
+    "file": "lqd.svg"
+  },
+  "lqty": {
+    "symbol": "lqty",
+    "name": "lqty",
+    "file": "lqty.svg"
+  },
+  "lrc": {
+    "symbol": "lrc",
+    "name": "lrc",
+    "file": "lrc.svg"
+  },
+  "lsk": {
+    "symbol": "lsk",
+    "name": "lsk",
+    "file": "lsk.svg"
+  },
+  "lss": {
+    "symbol": "lss",
+    "name": "lss",
+    "file": "lss.svg"
+  },
+  "ltc": {
+    "symbol": "ltc",
+    "name": "ltc",
+    "file": "ltc.svg"
+  },
+  "lto": {
+    "symbol": "lto",
+    "name": "lto",
+    "file": "lto.svg"
+  },
+  "luca": {
+    "symbol": "luca",
+    "name": "luca",
+    "file": "luca.svg"
+  },
+  "lun": {
+    "symbol": "lun",
+    "name": "lun",
+    "file": "lun.svg"
+  },
+  "luna": {
+    "symbol": "luna",
+    "name": "luna",
+    "file": "luna.svg"
+  },
+  "lusd": {
+    "symbol": "lusd",
+    "name": "lusd",
+    "file": "lusd.svg"
+  },
+  "lxt": {
+    "symbol": "lxt",
+    "name": "lxt",
+    "file": "lxt.svg"
+  },
+  "lym": {
+    "symbol": "lym",
+    "name": "lym",
+    "file": "lym.svg"
+  },
+  "m": {
+    "symbol": "m",
+    "name": "m",
+    "file": "m.svg"
+  },
+  "msol": {
+    "symbol": "mSOL",
+    "name": "mSOL",
+    "file": "mSOL.svg"
+  },
+  "magic": {
+    "symbol": "magic",
+    "name": "magic",
+    "file": "magic.svg"
+  },
+  "maha": {
+    "symbol": "maha",
+    "name": "maha",
+    "file": "maha.svg"
+  },
+  "maid": {
+    "symbol": "maid",
+    "name": "maid",
+    "file": "maid.svg"
+  },
+  "man": {
+    "symbol": "man",
+    "name": "man",
+    "file": "man.svg"
+  },
+  "mana": {
+    "symbol": "mana",
+    "name": "mana",
+    "file": "mana.svg"
+  },
+  "manta": {
+    "symbol": "manta",
+    "name": "manta",
+    "file": "manta.svg"
+  },
+  "mask": {
+    "symbol": "mask",
+    "name": "mask",
+    "file": "mask.svg"
+  },
+  "math": {
+    "symbol": "math",
+    "name": "math",
+    "file": "math.svg"
+  },
+  "matic": {
+    "symbol": "matic",
+    "name": "matic",
+    "file": "matic.svg"
+  },
+  "matter": {
+    "symbol": "matter",
+    "name": "matter",
+    "file": "matter.svg"
+  },
+  "mav": {
+    "symbol": "mav",
+    "name": "mav",
+    "file": "mav.svg"
+  },
+  "mbc": {
+    "symbol": "mbc",
+    "name": "mbc",
+    "file": "mbc.svg"
+  },
+  "mbox": {
+    "symbol": "mbox",
+    "name": "mbox",
+    "file": "mbox.svg"
+  },
+  "mc": {
+    "symbol": "mc",
+    "name": "mc",
+    "file": "mc.svg"
+  },
+  "mcb": {
+    "symbol": "mcb",
+    "name": "mcb",
+    "file": "mcb.svg"
+  },
+  "mco": {
+    "symbol": "mco",
+    "name": "mco",
+    "file": "mco.svg"
+  },
+  "mcx": {
+    "symbol": "mcx",
+    "name": "mcx",
+    "file": "mcx.svg"
+  },
+  "mda": {
+    "symbol": "mda",
+    "name": "mda",
+    "file": "mda.svg"
+  },
+  "mdao": {
+    "symbol": "mdao",
+    "name": "mdao",
+    "file": "mdao.svg"
+  },
+  "mds": {
+    "symbol": "mds",
+    "name": "mds",
+    "file": "mds.svg"
+  },
+  "med": {
+    "symbol": "med",
+    "name": "med",
+    "file": "med.svg"
+  },
+  "medx": {
+    "symbol": "medx",
+    "name": "medx",
+    "file": "medx.svg"
+  },
+  "meme": {
+    "symbol": "meme",
+    "name": "meme",
+    "file": "meme.svg"
+  },
+  "met": {
+    "symbol": "met",
+    "name": "met",
+    "file": "met.svg"
+  },
+  "metano": {
+    "symbol": "metano",
+    "name": "metano",
+    "file": "metano.svg"
+  },
+  "meth": {
+    "symbol": "meth",
+    "name": "meth",
+    "file": "meth.svg"
+  },
+  "metis": {
+    "symbol": "metis",
+    "name": "metis",
+    "file": "metis.svg"
+  },
+  "mew": {
+    "symbol": "mew",
+    "name": "mew",
+    "file": "mew.svg"
+  },
+  "mex": {
+    "symbol": "mex",
+    "name": "mex",
+    "file": "mex.svg"
+  },
+  "mfg": {
+    "symbol": "mfg",
+    "name": "mfg",
+    "file": "mfg.svg"
+  },
+  "mft": {
+    "symbol": "mft",
+    "name": "mft",
+    "file": "mft.svg"
+  },
+  "mim": {
+    "symbol": "mim",
+    "name": "mim",
+    "file": "mim.svg"
+  },
+  "mimatic": {
+    "symbol": "mimatic",
+    "name": "mimatic",
+    "file": "mimatic.svg"
+  },
+  "mina": {
+    "symbol": "mina",
+    "name": "mina",
+    "file": "mina.svg"
+  },
+  "mir": {
+    "symbol": "mir",
+    "name": "mir",
+    "file": "mir.svg"
+  },
+  "mith": {
+    "symbol": "mith",
+    "name": "mith",
+    "file": "mith.svg"
+  },
+  "mkr": {
+    "symbol": "mkr",
+    "name": "mkr",
+    "file": "mkr.svg"
+  },
+  "mln": {
+    "symbol": "mln",
+    "name": "mln",
+    "file": "mln.svg"
+  },
+  "mngo": {
+    "symbol": "mngo",
+    "name": "mngo",
+    "file": "mngo.svg"
+  },
+  "mnt": {
+    "symbol": "mnt",
+    "name": "mnt",
+    "file": "mnt.svg"
+  },
+  "mntl": {
+    "symbol": "mntl",
+    "name": "mntl",
+    "file": "mntl.svg"
+  },
+  "mnw": {
+    "symbol": "mnw",
+    "name": "mnw",
+    "file": "mnw.svg"
+  },
+  "mochi": {
+    "symbol": "mochi",
+    "name": "mochi",
+    "file": "mochi.svg"
+  },
+  "mod": {
+    "symbol": "mod",
+    "name": "mod",
+    "file": "mod.svg"
+  },
+  "mom": {
+    "symbol": "mom",
+    "name": "mom",
+    "file": "mom.svg"
+  },
+  "mon": {
+    "symbol": "mon",
+    "name": "mon",
+    "file": "mon.svg"
+  },
+  "moons": {
+    "symbol": "moons",
+    "name": "moons",
+    "file": "moons.svg"
+  },
+  "morpho": {
+    "symbol": "morpho",
+    "name": "morpho",
+    "file": "morpho.svg"
+  },
+  "mot": {
+    "symbol": "mot",
+    "name": "mot",
+    "file": "mot.svg"
+  },
+  "mpl": {
+    "symbol": "mpl",
+    "name": "mpl",
+    "file": "mpl.svg"
+  },
+  "mta": {
+    "symbol": "mta",
+    "name": "mta",
+    "file": "mta.svg"
+  },
+  "mth": {
+    "symbol": "mth",
+    "name": "mth",
+    "file": "mth.svg"
+  },
+  "mtl": {
+    "symbol": "mtl",
+    "name": "mtl",
+    "file": "mtl.svg"
+  },
+  "mtn": {
+    "symbol": "mtn",
+    "name": "mtn",
+    "file": "mtn.svg"
+  },
+  "mura": {
+    "symbol": "mura",
+    "name": "mura",
+    "file": "mura.svg"
+  },
+  "mvc": {
+    "symbol": "mvc",
+    "name": "mvc",
+    "file": "mvc.svg"
+  },
+  "mvl": {
+    "symbol": "mvl",
+    "name": "mvl",
+    "file": "mvl.svg"
+  },
+  "mvp": {
+    "symbol": "mvp",
+    "name": "mvp",
+    "file": "mvp.svg"
+  },
+  "mwat": {
+    "symbol": "mwat",
+    "name": "mwat",
+    "file": "mwat.svg"
+  },
+  "mwc": {
+    "symbol": "mwc",
+    "name": "mwc",
+    "file": "mwc.svg"
+  },
+  "mxc": {
+    "symbol": "mxc",
+    "name": "mxc",
+    "file": "mxc.svg"
+  },
+  "mxm": {
+    "symbol": "mxm",
+    "name": "mxm",
+    "file": "mxm.svg"
+  },
+  "myb": {
+    "symbol": "myb",
+    "name": "myb",
+    "file": "myb.svg"
+  },
+  "myx": {
+    "symbol": "myx",
+    "name": "myx",
+    "file": "myx.svg"
+  },
+  "nano": {
+    "symbol": "nano",
+    "name": "nano",
+    "file": "nano.svg"
+  },
+  "nas": {
+    "symbol": "nas",
+    "name": "nas",
+    "file": "nas.svg"
+  },
+  "nav": {
+    "symbol": "nav",
+    "name": "nav",
+    "file": "nav.svg"
+  },
+  "ncash": {
+    "symbol": "ncash",
+    "name": "ncash",
+    "file": "ncash.svg"
+  },
+  "nct": {
+    "symbol": "nct",
+    "name": "nct",
+    "file": "nct.svg"
+  },
+  "near": {
+    "symbol": "near",
+    "name": "near",
+    "file": "near.svg"
+  },
+  "nebl": {
+    "symbol": "nebl",
+    "name": "nebl",
+    "file": "nebl.svg"
+  },
+  "nec": {
+    "symbol": "nec",
+    "name": "nec",
+    "file": "nec.svg"
+  },
+  "neo": {
+    "symbol": "neo",
+    "name": "neo",
+    "file": "neo.svg"
+  },
+  "neox": {
+    "symbol": "neox",
+    "name": "neox",
+    "file": "neox.svg"
+  },
+  "nest": {
+    "symbol": "nest",
+    "name": "nest",
+    "file": "nest.svg"
+  },
+  "new": {
+    "symbol": "new",
+    "name": "new",
+    "file": "new.svg"
+  },
+  "nex": {
+    "symbol": "nex",
+    "name": "nex",
+    "file": "nex.svg"
+  },
+  "nexo": {
+    "symbol": "nexo",
+    "name": "nexo",
+    "file": "nexo.svg"
+  },
+  "nexus": {
+    "symbol": "nexus",
+    "name": "nexus",
+    "file": "nexus.svg"
+  },
+  "nexxo": {
+    "symbol": "nexxo",
+    "name": "nexxo",
+    "file": "nexxo.svg"
+  },
+  "nft": {
+    "symbol": "nft",
+    "name": "nft",
+    "file": "nft.svg"
+  },
+  "nftb": {
+    "symbol": "nftb",
+    "name": "nftb",
+    "file": "nftb.svg"
+  },
+  "ngc": {
+    "symbol": "ngc",
+    "name": "ngc",
+    "file": "ngc.svg"
+  },
+  "night": {
+    "symbol": "night",
+    "name": "night",
+    "file": "night.svg"
+  },
+  "niox": {
+    "symbol": "niox",
+    "name": "niox",
+    "file": "niox.svg"
+  },
+  "nkn": {
+    "symbol": "nkn",
+    "name": "nkn",
+    "file": "nkn.svg"
+  },
+  "nlg": {
+    "symbol": "nlg",
+    "name": "nlg",
+    "file": "nlg.svg"
+  },
+  "nmr": {
+    "symbol": "nmr",
+    "name": "nmr",
+    "file": "nmr.svg"
+  },
+  "noia": {
+    "symbol": "noia",
+    "name": "noia",
+    "file": "noia.svg"
+  },
+  "nos": {
+    "symbol": "nos",
+    "name": "nos",
+    "file": "nos.svg"
+  },
+  "not": {
+    "symbol": "not",
+    "name": "not",
+    "file": "not.svg"
+  },
+  "npc": {
+    "symbol": "npc",
+    "name": "npc",
+    "file": "npc.svg"
+  },
+  "nper": {
+    "symbol": "nper",
+    "name": "nper",
+    "file": "nper.svg"
+  },
+  "npxs": {
+    "symbol": "npxs",
+    "name": "npxs",
+    "file": "npxs.svg"
+  },
+  "nrg": {
+    "symbol": "nrg",
+    "name": "nrg",
+    "file": "nrg.svg"
+  },
+  "nrv": {
+    "symbol": "nrv",
+    "name": "nrv",
+    "file": "nrv.svg"
+  },
+  "nrve": {
+    "symbol": "nrve",
+    "name": "Fill 1 Copy",
+    "file": "nrve.svg"
+  },
+  "ntic": {
+    "symbol": "ntic",
+    "name": "ntic",
+    "file": "ntic.svg"
+  },
+  "ntl": {
+    "symbol": "ntl",
+    "name": "ntl",
+    "file": "ntl.svg"
+  },
+  "ntrn": {
+    "symbol": "ntrn",
+    "name": "ntrn",
+    "file": "ntrn.svg"
+  },
+  "nu": {
+    "symbol": "nu",
+    "name": "nu",
+    "file": "nu.svg"
+  },
+  "nuls": {
+    "symbol": "nuls",
+    "name": "nuls",
+    "file": "nuls.svg"
+  },
+  "nxm": {
+    "symbol": "nxm",
+    "name": "nxm",
+    "file": "nxm.svg"
+  },
+  "nxra": {
+    "symbol": "nxra",
+    "name": "nxra",
+    "file": "nxra.svg"
+  },
+  "nxs": {
+    "symbol": "nxs",
+    "name": "nxs",
+    "file": "nxs.svg"
+  },
+  "nxt": {
+    "symbol": "nxt",
+    "name": "nxt",
+    "file": "nxt.svg"
+  },
+  "oag": {
+    "symbol": "oag",
+    "name": "oag",
+    "file": "oag.svg"
+  },
+  "oax": {
+    "symbol": "oax",
+    "name": "oax",
+    "file": "oax.svg"
+  },
+  "ocean": {
+    "symbol": "ocean",
+    "name": "ocean",
+    "file": "ocean.svg"
+  },
+  "ocn": {
+    "symbol": "ocn",
+    "name": "ocn",
+    "file": "ocn.svg"
+  },
+  "ode": {
+    "symbol": "ode",
+    "name": "ode",
+    "file": "ode.svg"
+  },
+  "ogn": {
+    "symbol": "ogn",
+    "name": "ogn",
+    "file": "ogn.svg"
+  },
+  "ohm": {
+    "symbol": "ohm",
+    "name": "ohm",
+    "file": "ohm.svg"
+  },
+  "oil": {
+    "symbol": "oil",
+    "name": "oil",
+    "file": "oil.svg"
+  },
+  "okb": {
+    "symbol": "okb",
+    "name": "okb",
+    "file": "okb.svg"
+  },
+  "oks": {
+    "symbol": "oks",
+    "name": "oks",
+    "file": "oks.svg"
+  },
+  "olt": {
+    "symbol": "olt",
+    "name": "olt",
+    "file": "olt.svg"
+  },
+  "omg": {
+    "symbol": "omg",
+    "name": "omg",
+    "file": "omg.svg"
+  },
+  "ondo": {
+    "symbol": "ondo",
+    "name": "ondo",
+    "file": "ondo.svg"
+  },
+  "one": {
+    "symbol": "one",
+    "name": "one",
+    "file": "one.svg"
+  },
+  "onion": {
+    "symbol": "onion",
+    "name": "onion",
+    "file": "onion.svg"
+  },
+  "ont": {
+    "symbol": "ont",
+    "name": "ont",
+    "file": "ont.svg"
+  },
+  "op": {
+    "symbol": "op",
+    "name": "op",
+    "file": "op.svg"
+  },
+  "open": {
+    "symbol": "open",
+    "name": "open",
+    "file": "open.svg"
+  },
+  "opium": {
+    "symbol": "opium",
+    "name": "opium",
+    "file": "opium.svg"
+  },
+  "opm": {
+    "symbol": "opm",
+    "name": "opm",
+    "file": "opm.svg"
+  },
+  "opul": {
+    "symbol": "opul",
+    "name": "opul",
+    "file": "opul.svg"
+  },
+  "opx": {
+    "symbol": "opx",
+    "name": "opx",
+    "file": "opx.svg"
+  },
+  "orai": {
+    "symbol": "orai",
+    "name": "orai",
+    "file": "orai.svg"
+  },
+  "orbs": {
+    "symbol": "orbs",
+    "name": "orbs",
+    "file": "orbs.svg"
+  },
+  "orc": {
+    "symbol": "orc",
+    "name": "orc",
+    "file": "orc.svg"
+  },
+  "ordi": {
+    "symbol": "ordi",
+    "name": "ordi",
+    "file": "ordi.svg"
+  },
+  "orn": {
+    "symbol": "orn",
+    "name": "orn",
+    "file": "orn.svg"
+  },
+  "osmo": {
+    "symbol": "osmo",
+    "name": "osmo",
+    "file": "osmo.svg"
+  },
+  "ost": {
+    "symbol": "ost",
+    "name": "ost",
+    "file": "ost.svg"
+  },
+  "ovc": {
+    "symbol": "ovc",
+    "name": "ovc",
+    "file": "ovc.svg"
+  },
+  "ox": {
+    "symbol": "ox",
+    "name": "ox",
+    "file": "ox.svg"
+  },
+  "oxt": {
+    "symbol": "oxt",
+    "name": "oxt",
+    "file": "oxt.svg"
+  },
+  "pbtc": {
+    "symbol": "pBTC",
+    "name": "pBTC",
+    "file": "pBTC.svg"
+  },
+  "pai": {
+    "symbol": "pai",
+    "name": "pai",
+    "file": "pai.svg"
+  },
+  "paint": {
+    "symbol": "paint",
+    "name": "paint",
+    "file": "paint.svg"
+  },
+  "pal": {
+    "symbol": "pal",
+    "name": "pal",
+    "file": "pal.svg"
+  },
+  "palm-2": {
+    "symbol": "palm-2",
+    "name": "palm-2",
+    "file": "palm-2.svg"
+  },
+  "palm": {
+    "symbol": "palm",
+    "name": "palm",
+    "file": "palm.svg"
+  },
+  "paper": {
+    "symbol": "paper",
+    "name": "paper",
+    "file": "paper.svg"
+  },
+  "par": {
+    "symbol": "par",
+    "name": "par",
+    "file": "par.svg"
+  },
+  "part": {
+    "symbol": "part",
+    "name": "part",
+    "file": "part.svg"
+  },
+  "pasg": {
+    "symbol": "pasg",
+    "name": "pasg",
+    "file": "pasg.svg"
+  },
+  "pax": {
+    "symbol": "pax",
+    "name": "pax",
+    "file": "pax.svg"
+  },
+  "paxg": {
+    "symbol": "paxg",
+    "name": "paxg",
+    "file": "paxg.svg"
+  },
+  "pay": {
+    "symbol": "pay",
+    "name": "pay",
+    "file": "pay.svg"
+  },
+  "pbirb": {
+    "symbol": "pbirb",
+    "name": "pbirb",
+    "file": "pbirb.svg"
+  },
+  "pbr": {
+    "symbol": "pbr",
+    "name": "pbr",
+    "file": "pbr.svg"
+  },
+  "pendle": {
+    "symbol": "pendle",
+    "name": "pendle",
+    "file": "pendle.svg"
+  },
+  "pepe": {
+    "symbol": "pepe",
+    "name": "pepe",
+    "file": "pepe.svg"
+  },
+  "perl": {
+    "symbol": "perl",
+    "name": "perl",
+    "file": "perl.svg"
+  },
+  "perp": {
+    "symbol": "perp",
+    "name": "perp",
+    "file": "perp.svg"
+  },
+  "pha": {
+    "symbol": "pha",
+    "name": "pha",
+    "file": "pha.svg"
+  },
+  "phtk": {
+    "symbol": "phtk",
+    "name": "phtk",
+    "file": "phtk.svg"
+  },
+  "phx": {
+    "symbol": "phx",
+    "name": "phx",
+    "file": "phx.svg"
+  },
+  "pickle": {
+    "symbol": "pickle",
+    "name": "pickle",
+    "file": "pickle.svg"
+  },
+  "pika": {
+    "symbol": "pika",
+    "name": "pika",
+    "file": "pika.svg"
+  },
+  "pip": {
+    "symbol": "pip",
+    "name": "pip",
+    "file": "pip.svg"
+  },
+  "pivx": {
+    "symbol": "pivx",
+    "name": "pivx",
+    "file": "pivx.svg"
+  },
+  "pldai": {
+    "symbol": "plDAI",
+    "name": "plDAI",
+    "file": "plDAI.svg"
+  },
+  "plusdc": {
+    "symbol": "plUSDC",
+    "name": "plUSDC",
+    "file": "plUSDC.svg"
+  },
+  "pla": {
+    "symbol": "pla",
+    "name": "pla",
+    "file": "pla.svg"
+  },
+  "play": {
+    "symbol": "play",
+    "name": "play",
+    "file": "play.svg"
+  },
+  "plr": {
+    "symbol": "plr",
+    "name": "plr",
+    "file": "plr.svg"
+  },
+  "pltc": {
+    "symbol": "pltc",
+    "name": "pltc",
+    "file": "pltc.svg"
+  },
+  "pnb": {
+    "symbol": "pnb",
+    "name": "pnb",
+    "file": "pnb.svg"
+  },
+  "png": {
+    "symbol": "png",
+    "name": "png",
+    "file": "png.svg"
+  },
+  "pnk": {
+    "symbol": "pnk",
+    "name": "pnk",
+    "file": "pnk.svg"
+  },
+  "pnt": {
+    "symbol": "pnt",
+    "name": "pnt",
+    "file": "pnt.svg"
+  },
+  "poa": {
+    "symbol": "poa",
+    "name": "poa",
+    "file": "poa.svg"
+  },
+  "poe": {
+    "symbol": "poe",
+    "name": "poe",
+    "file": "poe.svg"
+  },
+  "pokt": {
+    "symbol": "pokt",
+    "name": "pokt",
+    "file": "pokt.svg"
+  },
+  "pols": {
+    "symbol": "pols",
+    "name": "pols",
+    "file": "pols.svg"
+  },
+  "poly-2": {
+    "symbol": "poly-2",
+    "name": "poly-2",
+    "file": "poly-2.svg"
+  },
+  "poly": {
+    "symbol": "poly",
+    "name": "poly",
+    "file": "poly.svg"
+  },
+  "polyx": {
+    "symbol": "polyx",
+    "name": "polyx",
+    "file": "polyx.svg"
+  },
+  "pom": {
+    "symbol": "pom",
+    "name": "pom",
+    "file": "pom.svg"
+  },
+  "pond": {
+    "symbol": "pond",
+    "name": "pond",
+    "file": "pond.svg"
+  },
+  "pool": {
+    "symbol": "pool",
+    "name": "pool",
+    "file": "pool.svg"
+  },
+  "pop": {
+    "symbol": "pop",
+    "name": "pop",
+    "file": "pop.svg"
+  },
+  "popcat": {
+    "symbol": "popcat",
+    "name": "popcat",
+    "file": "popcat.svg"
+  },
+  "powr": {
+    "symbol": "powr",
+    "name": "powr",
+    "file": "powr.svg"
+  },
+  "ppay": {
+    "symbol": "ppay",
+    "name": "ppay",
+    "file": "ppay.svg"
+  },
+  "ppc": {
+    "symbol": "ppc",
+    "name": "ppc",
+    "file": "ppc.svg"
+  },
+  "ppp": {
+    "symbol": "ppp",
+    "name": "ppp",
+    "file": "ppp.svg"
+  },
+  "ppt": {
+    "symbol": "ppt",
+    "name": "ppt",
+    "file": "ppt.svg"
+  },
+  "pre": {
+    "symbol": "pre",
+    "name": "pre",
+    "file": "pre.svg"
+  },
+  "premia": {
+    "symbol": "premia",
+    "name": "premia",
+    "file": "premia.svg"
+  },
+  "prime": {
+    "symbol": "prime",
+    "name": "prime",
+    "file": "prime.svg"
+  },
+  "prl": {
+    "symbol": "prl",
+    "name": "qrl",
+    "file": "prl.svg"
+  },
+  "pro": {
+    "symbol": "pro",
+    "name": "pro",
+    "file": "pro.svg"
+  },
+  "prom": {
+    "symbol": "prom",
+    "name": "prom",
+    "file": "prom.svg"
+  },
+  "pros": {
+    "symbol": "pros",
+    "name": "pros",
+    "file": "pros.svg"
+  },
+  "prq": {
+    "symbol": "prq",
+    "name": "prq",
+    "file": "prq.svg"
+  },
+  "psp": {
+    "symbol": "psp",
+    "name": "psp",
+    "file": "psp.svg"
+  },
+  "pst": {
+    "symbol": "pst",
+    "name": "pst",
+    "file": "pst.svg"
+  },
+  "pxp": {
+    "symbol": "pxp",
+    "name": "pxp",
+    "file": "pxp.svg"
+  },
+  "pyr": {
+    "symbol": "pyr",
+    "name": "pyr",
+    "file": "pyr.svg"
+  },
+  "pyth": {
+    "symbol": "pyth",
+    "name": "pyth",
+    "file": "pyth.svg"
+  },
+  "pyusd": {
+    "symbol": "pyusd",
+    "name": "pyusd",
+    "file": "pyusd.svg"
+  },
+  "qash": {
+    "symbol": "qash",
+    "name": "qash",
+    "file": "qash.svg"
+  },
+  "qbit": {
+    "symbol": "qbit",
+    "name": "qbit",
+    "file": "qbit.svg"
+  },
+  "qi": {
+    "symbol": "qi",
+    "name": "qi",
+    "file": "qi.svg"
+  },
+  "qkc": {
+    "symbol": "qkc",
+    "name": "qkc",
+    "file": "qkc.svg"
+  },
+  "qlc": {
+    "symbol": "qlc",
+    "name": "qlc",
+    "file": "qlc.svg"
+  },
+  "qnt": {
+    "symbol": "qnt",
+    "name": "qnt",
+    "file": "qnt.svg"
+  },
+  "qrdo": {
+    "symbol": "qrdo",
+    "name": "qrdo",
+    "file": "qrdo.svg"
+  },
+  "qsp": {
+    "symbol": "qsp",
+    "name": "qsp",
+    "file": "qsp.svg"
+  },
+  "qtcon": {
+    "symbol": "qtcon",
+    "name": "qtcon",
+    "file": "qtcon.svg"
+  },
+  "qtum": {
+    "symbol": "qtum",
+    "name": "qtum",
+    "file": "qtum.svg"
+  },
+  "quick": {
+    "symbol": "quick",
+    "name": "quick",
+    "file": "quick.svg"
+  },
+  "r": {
+    "symbol": "r",
+    "name": "r",
+    "file": "r.svg"
+  },
+  "raca": {
+    "symbol": "raca",
+    "name": "raca",
+    "file": "raca.svg"
+  },
+  "rae": {
+    "symbol": "rae",
+    "name": "rae",
+    "file": "rae.svg"
+  },
+  "rai": {
+    "symbol": "rai",
+    "name": "rai",
+    "file": "rai.svg"
+  },
+  "rain": {
+    "symbol": "rain",
+    "name": "rain",
+    "file": "rain.svg"
+  },
+  "rari": {
+    "symbol": "rari",
+    "name": "rari",
+    "file": "rari.svg"
+  },
+  "rave": {
+    "symbol": "rave",
+    "name": "rave",
+    "file": "rave.svg"
+  },
+  "ray": {
+    "symbol": "ray",
+    "name": "ray",
+    "file": "ray.svg"
+  },
+  "rbn": {
+    "symbol": "rbn",
+    "name": "rbn",
+    "file": "rbn.svg"
+  },
+  "rbx": {
+    "symbol": "rbx",
+    "name": "rbx",
+    "file": "rbx.svg"
+  },
+  "rcn": {
+    "symbol": "rcn",
+    "name": "rcn",
+    "file": "rcn.svg"
+  },
+  "rdai": {
+    "symbol": "rdai",
+    "name": "rdai",
+    "file": "rdai.svg"
+  },
+  "rdd": {
+    "symbol": "rdd",
+    "name": "rdd",
+    "file": "rdd.svg"
+  },
+  "rdn": {
+    "symbol": "rdn",
+    "name": "rdn",
+    "file": "rdn.svg"
+  },
+  "rdnt": {
+    "symbol": "rdnt",
+    "name": "rdnt",
+    "file": "rdnt.svg"
+  },
+  "ren": {
+    "symbol": "ren",
+    "name": "ren",
+    "file": "ren.svg"
+  },
+  "rep": {
+    "symbol": "rep",
+    "name": "rep",
+    "file": "rep.svg"
+  },
+  "req": {
+    "symbol": "req",
+    "name": "req",
+    "file": "req.svg"
+  },
+  "reth-2": {
+    "symbol": "reth-2",
+    "name": "reth-2",
+    "file": "reth-2.svg"
+  },
+  "reth": {
+    "symbol": "reth",
+    "name": "reth",
+    "file": "reth.svg"
+  },
+  "rev": {
+    "symbol": "rev",
+    "name": "rev",
+    "file": "rev.svg"
+  },
+  "rfox": {
+    "symbol": "rfox",
+    "name": "rfox",
+    "file": "rfox.svg"
+  },
+  "rfwsteth": {
+    "symbol": "rfwsteth",
+    "name": "rfwsteth",
+    "file": "rfwsteth.svg"
+  },
+  "rgt": {
+    "symbol": "rgt",
+    "name": "rgt",
+    "file": "rgt.svg"
+  },
+  "rhoc": {
+    "symbol": "rhoc",
+    "name": "rhoc",
+    "file": "rhoc.svg"
+  },
+  "rif": {
+    "symbol": "rif",
+    "name": "rif",
+    "file": "rif.svg"
+  },
+  "rlc": {
+    "symbol": "rlc",
+    "name": "rlc",
+    "file": "rlc.svg"
+  },
+  "rly": {
+    "symbol": "rly",
+    "name": "rly",
+    "file": "rly.svg"
+  },
+  "rndr": {
+    "symbol": "rndr",
+    "name": "rndr",
+    "file": "rndr.svg"
+  },
+  "ron": {
+    "symbol": "ron",
+    "name": "ron",
+    "file": "ron.svg"
+  },
+  "rook": {
+    "symbol": "rook",
+    "name": "rook",
+    "file": "rook.svg"
+  },
+  "rose": {
+    "symbol": "rose",
+    "name": "rose",
+    "file": "rose.svg"
+  },
+  "rpl": {
+    "symbol": "rpl",
+    "name": "rpl",
+    "file": "rpl.svg"
+  },
+  "rpx": {
+    "symbol": "rpx",
+    "name": "rpx",
+    "file": "rpx.svg"
+  },
+  "rseth": {
+    "symbol": "rseth",
+    "name": "rseth",
+    "file": "rseth.svg"
+  },
+  "rsr": {
+    "symbol": "rsr",
+    "name": "rsr",
+    "file": "rsr.svg"
+  },
+  "rsv": {
+    "symbol": "rsv",
+    "name": "rsv",
+    "file": "rsv.svg"
+  },
+  "rune": {
+    "symbol": "rune",
+    "name": "rune",
+    "file": "rune.svg"
+  },
+  "rvn": {
+    "symbol": "rvn",
+    "name": "rvn",
+    "file": "rvn.svg"
+  },
+  "s": {
+    "symbol": "s",
+    "name": "s",
+    "file": "s.svg"
+  },
+  "sai": {
+    "symbol": "sai",
+    "name": "sai",
+    "file": "sai.svg"
+  },
+  "salt": {
+    "symbol": "salt",
+    "name": "salt",
+    "file": "salt.svg"
+  },
+  "san": {
+    "symbol": "san",
+    "name": "san",
+    "file": "san.svg"
+  },
+  "sand": {
+    "symbol": "sand",
+    "name": "sand",
+    "file": "sand.svg"
+  },
+  "sapp": {
+    "symbol": "sapp",
+    "name": "sapp",
+    "file": "sapp.svg"
+  },
+  "sar": {
+    "symbol": "sar",
+    "name": "sar",
+    "file": "sar.svg"
+  },
+  "sats": {
+    "symbol": "sats",
+    "name": "sats",
+    "file": "sats.svg"
+  },
+  "scrl": {
+    "symbol": "scrl",
+    "name": "scrl",
+    "file": "scrl.svg"
+  },
+  "scrt": {
+    "symbol": "scrt",
+    "name": "scrt",
+    "file": "scrt.svg"
+  },
+  "scs": {
+    "symbol": "scs",
+    "name": "scs",
+    "file": "scs.svg"
+  },
+  "sdex": {
+    "symbol": "sdex",
+    "name": "sdex",
+    "file": "sdex.svg"
+  },
+  "sdl": {
+    "symbol": "sdl",
+    "name": "sdl",
+    "file": "sdl.svg"
+  },
+  "sdt": {
+    "symbol": "sdt",
+    "name": "sdt",
+    "file": "sdt.svg"
+  },
+  "seele": {
+    "symbol": "seele",
+    "name": "seele",
+    "file": "seele.svg"
+  },
+  "sefi": {
+    "symbol": "sefi",
+    "name": "sefi",
+    "file": "sefi.svg"
+  },
+  "sei": {
+    "symbol": "sei",
+    "name": "sei",
+    "file": "sei.svg"
+  },
+  "sem": {
+    "symbol": "sem",
+    "name": "sem",
+    "file": "sem.svg"
+  },
+  "seth": {
+    "symbol": "seth",
+    "name": "seth",
+    "file": "seth.svg"
+  },
+  "seth2": {
+    "symbol": "seth2",
+    "name": "seth2",
+    "file": "seth2.svg"
+  },
+  "sfi": {
+    "symbol": "sfi",
+    "name": "sfi",
+    "file": "sfi.svg"
+  },
+  "sfm": {
+    "symbol": "sfm",
+    "name": "sfm",
+    "file": "sfm.svg"
+  },
+  "sfp-2": {
+    "symbol": "sfp-2",
+    "name": "sfp-2",
+    "file": "sfp-2.svg"
+  },
+  "sfp": {
+    "symbol": "sfp",
+    "name": "sfp",
+    "file": "sfp.svg"
+  },
+  "sha": {
+    "symbol": "sha",
+    "name": "sha",
+    "file": "sha.svg"
+  },
+  "shib": {
+    "symbol": "shib",
+    "name": "shib",
+    "file": "shib.svg"
+  },
+  "shr": {
+    "symbol": "shr",
+    "name": "shr",
+    "file": "shr.svg"
+  },
+  "shuf": {
+    "symbol": "shuf",
+    "name": "shuf",
+    "file": "shuf.svg"
+  },
+  "si": {
+    "symbol": "si",
+    "name": "si",
+    "file": "si.svg"
+  },
+  "sia": {
+    "symbol": "sia",
+    "name": "sia",
+    "file": "sia.svg"
+  },
+  "sidus": {
+    "symbol": "sidus",
+    "name": "sidus",
+    "file": "sidus.svg"
+  },
+  "silo": {
+    "symbol": "silo",
+    "name": "silo",
+    "file": "silo.svg"
+  },
+  "skl": {
+    "symbol": "skl",
+    "name": "skl",
+    "file": "skl.svg"
+  },
+  "sky": {
+    "symbol": "sky",
+    "name": "sky",
+    "file": "sky.svg"
+  },
+  "sky2": {
+    "symbol": "sky2",
+    "name": "sky2",
+    "file": "sky2.svg"
+  },
+  "sld": {
+    "symbol": "sld",
+    "name": "sld",
+    "file": "sld.svg"
+  },
+  "slex": {
+    "symbol": "slex",
+    "name": "slex",
+    "file": "slex.svg"
+  },
+  "slp": {
+    "symbol": "slp",
+    "name": "slp",
+    "file": "slp.svg"
+  },
+  "slt": {
+    "symbol": "slt",
+    "name": "Asset 1",
+    "file": "slt.svg"
+  },
+  "smart": {
+    "symbol": "smart",
+    "name": "smart",
+    "file": "smart.svg"
+  },
+  "snail": {
+    "symbol": "snail",
+    "name": "snail",
+    "file": "snail.svg"
+  },
+  "snc": {
+    "symbol": "snc",
+    "name": "snc",
+    "file": "snc.svg"
+  },
+  "sngls": {
+    "symbol": "sngls",
+    "name": "sngls",
+    "file": "sngls.svg"
+  },
+  "snm": {
+    "symbol": "snm",
+    "name": "snm",
+    "file": "snm.svg"
+  },
+  "snt": {
+    "symbol": "snt",
+    "name": "snt",
+    "file": "snt.svg"
+  },
+  "snx": {
+    "symbol": "snx",
+    "name": "snx",
+    "file": "snx.svg"
+  },
+  "soaps": {
+    "symbol": "soaps",
+    "name": "soaps",
+    "file": "soaps.svg"
+  },
+  "socks": {
+    "symbol": "socks",
+    "name": "socks",
+    "file": "socks.svg"
+  },
+  "sofi": {
+    "symbol": "sofi",
+    "name": "sofi",
+    "file": "sofi.svg"
+  },
+  "sol": {
+    "symbol": "sol",
+    "name": "sol",
+    "file": "sol.svg"
+  },
+  "solch": {
+    "symbol": "solch",
+    "name": "solch",
+    "file": "solch.svg"
+  },
+  "soul": {
+    "symbol": "soul",
+    "name": "soul",
+    "file": "soul.svg"
+  },
+  "sov": {
+    "symbol": "sov",
+    "name": "sov",
+    "file": "sov.svg"
+  },
+  "spank": {
+    "symbol": "spank",
+    "name": "spank",
+    "file": "spank.svg"
+  },
+  "spike": {
+    "symbol": "spike",
+    "name": "spike",
+    "file": "spike.svg"
+  },
+  "spn": {
+    "symbol": "spn",
+    "name": "spn",
+    "file": "spn.svg"
+  },
+  "sqr": {
+    "symbol": "sqr",
+    "name": "sqr",
+    "file": "sqr.svg"
+  },
+  "srm": {
+    "symbol": "srm",
+    "name": "srm",
+    "file": "srm.svg"
+  },
+  "ssv": {
+    "symbol": "ssv",
+    "name": "ssv",
+    "file": "ssv.svg"
+  },
+  "stable": {
+    "symbol": "stable",
+    "name": "stable",
+    "file": "stable.svg"
+  },
+  "stake": {
+    "symbol": "stake",
+    "name": "stake",
+    "file": "stake.svg"
+  },
+  "steem": {
+    "symbol": "steem",
+    "name": "steem",
+    "file": "steem.svg"
+  },
+  "step": {
+    "symbol": "step",
+    "name": "step",
+    "file": "step.svg"
+  },
+  "steth": {
+    "symbol": "steth",
+    "name": "steth",
+    "file": "steth.svg"
+  },
+  "stg": {
+    "symbol": "stg",
+    "name": "stg",
+    "file": "stg.svg"
+  },
+  "stmx": {
+    "symbol": "stmx",
+    "name": "stmx",
+    "file": "stmx.svg"
+  },
+  "sto": {
+    "symbol": "sto",
+    "name": "sto",
+    "file": "sto.svg"
+  },
+  "storj": {
+    "symbol": "storj",
+    "name": "storj",
+    "file": "storj.svg"
+  },
+  "storm": {
+    "symbol": "storm",
+    "name": "storm",
+    "file": "storm.svg"
+  },
+  "stpt": {
+    "symbol": "stpt",
+    "name": "stpt",
+    "file": "stpt.svg"
+  },
+  "strat": {
+    "symbol": "strat",
+    "name": "strat",
+    "file": "strat.svg"
+  },
+  "strdy": {
+    "symbol": "strdy",
+    "name": "strdy",
+    "file": "strdy.svg"
+  },
+  "strk": {
+    "symbol": "strk",
+    "name": "strk",
+    "file": "strk.svg"
+  },
+  "strx": {
+    "symbol": "strx",
+    "name": "strx",
+    "file": "strx.svg"
+  },
+  "stusds": {
+    "symbol": "stusds",
+    "name": "stusds",
+    "file": "stusds.svg"
+  },
+  "stx": {
+    "symbol": "stx",
+    "name": "stx",
+    "file": "stx.svg"
+  },
+  "stz": {
+    "symbol": "stz",
+    "name": "stz",
+    "file": "stz.svg"
+  },
+  "sub": {
+    "symbol": "sub",
+    "name": "sub",
+    "file": "sub.svg"
+  },
+  "sui": {
+    "symbol": "sui",
+    "name": "sui",
+    "file": "sui.svg"
+  },
+  "sun": {
+    "symbol": "sun",
+    "name": "sun",
+    "file": "sun.svg"
+  },
+  "super": {
+    "symbol": "super",
+    "name": "super",
+    "file": "super.svg"
+  },
+  "suqa": {
+    "symbol": "suqa",
+    "name": "suqa",
+    "file": "suqa.svg"
+  },
+  "surge": {
+    "symbol": "surge",
+    "name": "surge",
+    "file": "surge.svg"
+  },
+  "susd-2": {
+    "symbol": "susd-2",
+    "name": "susd-2",
+    "file": "susd-2.svg"
+  },
+  "susd": {
+    "symbol": "susd",
+    "name": "susd",
+    "file": "susd.svg"
+  },
+  "susde": {
+    "symbol": "susde",
+    "name": "susde",
+    "file": "susde.svg"
+  },
+  "susds": {
+    "symbol": "susds",
+    "name": "susds",
+    "file": "susds.svg"
+  },
+  "sushi": {
+    "symbol": "sushi",
+    "name": "sushi",
+    "file": "sushi.svg"
+  },
+  "suter": {
+    "symbol": "suter",
+    "name": "suter",
+    "file": "suter.svg"
+  },
+  "swap": {
+    "symbol": "swap",
+    "name": "swap",
+    "file": "swap.svg"
+  },
+  "sweat": {
+    "symbol": "sweat",
+    "name": "sweat",
+    "file": "sweat.svg"
+  },
+  "sweth": {
+    "symbol": "sweth",
+    "name": "sweth",
+    "file": "sweth.svg"
+  },
+  "swth": {
+    "symbol": "swth",
+    "name": "swth",
+    "file": "swth.svg"
+  },
+  "sxdt": {
+    "symbol": "sxdt",
+    "name": "sxdt",
+    "file": "sxdt.svg"
+  },
+  "sxp": {
+    "symbol": "sxp",
+    "name": "sxp",
+    "file": "sxp.svg"
+  },
+  "syn": {
+    "symbol": "syn",
+    "name": "syn",
+    "file": "syn.svg"
+  },
+  "sys": {
+    "symbol": "sys",
+    "name": "sys",
+    "file": "sys.svg"
+  },
+  "t": {
+    "symbol": "t",
+    "name": "t",
+    "file": "t.svg"
+  },
+  "tao": {
+    "symbol": "tao",
+    "name": "tao",
+    "file": "tao.svg"
+  },
+  "tbtc-2": {
+    "symbol": "tbtc-2",
+    "name": "tbtc-2",
+    "file": "tbtc-2.svg"
+  },
+  "tbtc": {
+    "symbol": "tbtc",
+    "name": "tbtc",
+    "file": "tbtc.svg"
+  },
+  "tct": {
+    "symbol": "tct",
+    "name": "tct",
+    "file": "tct.svg"
+  },
+  "tel": {
+    "symbol": "tel",
+    "name": "tel",
+    "file": "tel.svg"
+  },
+  "tet": {
+    "symbol": "tet",
+    "name": "tet",
+    "file": "tet.svg"
+  },
+  "tfuel": {
+    "symbol": "tfuel",
+    "name": "tfuel",
+    "file": "tfuel.svg"
+  },
+  "thales": {
+    "symbol": "thales",
+    "name": "thales",
+    "file": "thales.svg"
+  },
+  "thc": {
+    "symbol": "thc",
+    "name": "thc",
+    "file": "thc.svg"
+  },
+  "thedao": {
+    "symbol": "thedao",
+    "name": "thedao",
+    "file": "thedao.svg"
+  },
+  "theta": {
+    "symbol": "theta",
+    "name": "theta",
+    "file": "theta.svg"
+  },
+  "thr": {
+    "symbol": "thr",
+    "name": "thr",
+    "file": "thr.svg"
+  },
+  "tia": {
+    "symbol": "tia",
+    "name": "tia",
+    "file": "tia.svg"
+  },
+  "tio": {
+    "symbol": "tio",
+    "name": "tio",
+    "file": "tio.svg"
+  },
+  "titan": {
+    "symbol": "titan",
+    "name": "titan",
+    "file": "titan.svg"
+  },
+  "tkn": {
+    "symbol": "tkn",
+    "name": "tkn",
+    "file": "tkn.svg"
+  },
+  "tko": {
+    "symbol": "tko",
+    "name": "tko",
+    "file": "tko.svg"
+  },
+  "tkx": {
+    "symbol": "tkx",
+    "name": "tkx",
+    "file": "tkx.svg"
+  },
+  "tky": {
+    "symbol": "tky",
+    "name": "tky",
+    "file": "tky.svg"
+  },
+  "tnb": {
+    "symbol": "tnb",
+    "name": "tnb",
+    "file": "tnb.svg"
+  },
+  "tnc": {
+    "symbol": "tnc",
+    "name": "tnc",
+    "file": "tnc.svg"
+  },
+  "tnd": {
+    "symbol": "tnd",
+    "name": "tnd",
+    "file": "tnd.svg"
+  },
+  "tnt": {
+    "symbol": "tnt",
+    "name": "tnt",
+    "file": "tnt.svg"
+  },
+  "token": {
+    "symbol": "token",
+    "name": "token",
+    "file": "token.svg"
+  },
+  "tomi": {
+    "symbol": "tomi",
+    "name": "tomi",
+    "file": "tomi.svg"
+  },
+  "tomo": {
+    "symbol": "tomo",
+    "name": "tomo",
+    "file": "tomo.svg"
+  },
+  "ton": {
+    "symbol": "ton",
+    "name": "ton",
+    "file": "ton.svg"
+  },
+  "torn": {
+    "symbol": "torn",
+    "name": "torn",
+    "file": "torn.svg"
+  },
+  "tower": {
+    "symbol": "tower",
+    "name": "tower",
+    "file": "tower.svg"
+  },
+  "tpay": {
+    "symbol": "tpay",
+    "name": "tpay",
+    "file": "tpay.svg"
+  },
+  "trac": {
+    "symbol": "trac",
+    "name": "trac",
+    "file": "trac.svg"
+  },
+  "trb": {
+    "symbol": "trb",
+    "name": "trb",
+    "file": "trb.svg"
+  },
+  "tribe": {
+    "symbol": "tribe",
+    "name": "tribe",
+    "file": "tribe.svg"
+  },
+  "trig": {
+    "symbol": "trig",
+    "name": "trig",
+    "file": "trig.svg"
+  },
+  "trtl": {
+    "symbol": "trtl",
+    "name": "trtl",
+    "file": "trtl.svg"
+  },
+  "tru": {
+    "symbol": "tru",
+    "name": "tru",
+    "file": "tru.svg"
+  },
+  "trx": {
+    "symbol": "trx",
+    "name": "trx",
+    "file": "trx.svg"
+  },
+  "tryb": {
+    "symbol": "tryb",
+    "name": "tryb",
+    "file": "tryb.svg"
+  },
+  "ttc": {
+    "symbol": "ttc",
+    "name": "ttc",
+    "file": "ttc.svg"
+  },
+  "tube": {
+    "symbol": "tube",
+    "name": "tube",
+    "file": "tube.svg"
+  },
+  "tusd": {
+    "symbol": "tusd",
+    "name": "tusd",
+    "file": "tusd.svg"
+  },
+  "twt": {
+    "symbol": "twt",
+    "name": "twt",
+    "file": "twt.svg"
+  },
+  "tyzen": {
+    "symbol": "tyzen",
+    "name": "tyzen",
+    "file": "tyzen.svg"
+  },
+  "ubi": {
+    "symbol": "ubi",
+    "name": "ubi",
+    "file": "ubi.svg"
+  },
+  "ubq": {
+    "symbol": "ubq",
+    "name": "ubq",
+    "file": "ubq.svg"
+  },
+  "ubt": {
+    "symbol": "ubt",
+    "name": "ubt",
+    "file": "ubt.svg"
+  },
+  "uft": {
+    "symbol": "uft",
+    "name": "uft",
+    "file": "uft.svg"
+  },
+  "ult-2": {
+    "symbol": "ult-2",
+    "name": "ult-2",
+    "file": "ult-2.svg"
+  },
+  "ult": {
+    "symbol": "ult",
+    "name": "ult",
+    "file": "ult.svg"
+  },
+  "uma": {
+    "symbol": "uma",
+    "name": "uma",
+    "file": "uma.svg"
+  },
+  "uncx": {
+    "symbol": "uncx",
+    "name": "uncx",
+    "file": "uncx.svg"
+  },
+  "unfi": {
+    "symbol": "unfi",
+    "name": "unfi",
+    "file": "unfi.svg"
+  },
+  "uni": {
+    "symbol": "uni",
+    "name": "uni",
+    "file": "uni.svg"
+  },
+  "unibot": {
+    "symbol": "unibot",
+    "name": "unibot",
+    "file": "unibot.svg"
+  },
+  "uniqo": {
+    "symbol": "uniqo",
+    "name": "uniqo",
+    "file": "uniqo.svg"
+  },
+  "unn": {
+    "symbol": "unn",
+    "name": "unn",
+    "file": "unn.svg"
+  },
+  "uos": {
+    "symbol": "uos",
+    "name": "uos",
+    "file": "uos.svg"
+  },
+  "upp": {
+    "symbol": "upp",
+    "name": "upp",
+    "file": "upp.svg"
+  },
+  "usd1": {
+    "symbol": "usd1",
+    "name": "usd1",
+    "file": "usd1.svg"
+  },
+  "usdc": {
+    "symbol": "usdc",
+    "name": "usdc",
+    "file": "usdc.svg"
+  },
+  "usdd": {
+    "symbol": "usdd",
+    "name": "usdd",
+    "file": "usdd.svg"
+  },
+  "usde": {
+    "symbol": "usde",
+    "name": "usde",
+    "file": "usde.svg"
+  },
+  "usdf": {
+    "symbol": "usdf",
+    "name": "usdf",
+    "file": "usdf.svg"
+  },
+  "usdg": {
+    "symbol": "usdg",
+    "name": "usdg",
+    "file": "usdg.svg"
+  },
+  "usdgo": {
+    "symbol": "usdgo",
+    "name": "usdgo",
+    "file": "usdgo.svg"
+  },
+  "usdn": {
+    "symbol": "usdn",
+    "name": "usdn",
+    "file": "usdn.svg"
+  },
+  "usdp": {
+    "symbol": "usdp",
+    "name": "usdp",
+    "file": "usdp.svg"
+  },
+  "usds": {
+    "symbol": "usds",
+    "name": "usds",
+    "file": "usds.svg"
+  },
+  "usdt": {
+    "symbol": "usdt",
+    "name": "usdt",
+    "file": "usdt.svg"
+  },
+  "usdt0": {
+    "symbol": "usdt0",
+    "name": "usdt0",
+    "file": "usdt0.svg"
+  },
+  "usdy": {
+    "symbol": "usdy",
+    "name": "usdy",
+    "file": "usdy.svg"
+  },
+  "usdy2": {
+    "symbol": "usdy2",
+    "name": "usdy2",
+    "file": "usdy2.svg"
+  },
+  "usr": {
+    "symbol": "usr",
+    "name": "usr",
+    "file": "usr.svg"
+  },
+  "usx": {
+    "symbol": "usx",
+    "name": "usx",
+    "file": "usx.svg"
+  },
+  "usyc": {
+    "symbol": "usyc",
+    "name": "usyc",
+    "file": "usyc.svg"
+  },
+  "utk": {
+    "symbol": "utk",
+    "name": "utk",
+    "file": "utk.svg"
+  },
+  "uuu": {
+    "symbol": "uuu",
+    "name": "uuu",
+    "file": "uuu.svg"
+  },
+  "uxp": {
+    "symbol": "uxp",
+    "name": "uxp",
+    "file": "uxp.svg"
+  },
+  "vai": {
+    "symbol": "vai",
+    "name": "vai",
+    "file": "vai.svg"
+  },
+  "valor": {
+    "symbol": "valor",
+    "name": "valor",
+    "file": "valor.svg"
+  },
+  "value": {
+    "symbol": "value",
+    "name": "value",
+    "file": "value.svg"
+  },
+  "vekwenta": {
+    "symbol": "vekwenta",
+    "name": "vekwenta",
+    "file": "vekwenta.svg"
+  },
+  "vela": {
+    "symbol": "vela",
+    "name": "vela",
+    "file": "vela.svg"
+  },
+  "velo": {
+    "symbol": "velo",
+    "name": "velo",
+    "file": "velo.svg"
+  },
+  "veri": {
+    "symbol": "veri",
+    "name": "veri",
+    "file": "veri.svg"
+  },
+  "vest": {
+    "symbol": "vest",
+    "name": "vest",
+    "file": "vest.svg"
+  },
+  "vet": {
+    "symbol": "vet",
+    "name": "vet",
+    "file": "vet.svg"
+  },
+  "vgx": {
+    "symbol": "vgx",
+    "name": "vgx",
+    "file": "vgx.svg"
+  },
+  "via": {
+    "symbol": "via",
+    "name": "via",
+    "file": "via.svg"
+  },
+  "vib": {
+    "symbol": "vib",
+    "name": "vib",
+    "file": "vib.svg"
+  },
+  "vibe": {
+    "symbol": "vibe",
+    "name": "vibe",
+    "file": "vibe.svg"
+  },
+  "vidt": {
+    "symbol": "vidt",
+    "name": "vidt",
+    "file": "vidt.svg"
+  },
+  "vikky": {
+    "symbol": "vikky",
+    "name": "vikky",
+    "file": "vikky.svg"
+  },
+  "vin": {
+    "symbol": "vin",
+    "name": "vin",
+    "file": "vin.svg"
+  },
+  "vina": {
+    "symbol": "vina",
+    "name": "vina",
+    "file": "vina.svg"
+  },
+  "vita": {
+    "symbol": "vita",
+    "name": "vita",
+    "file": "vita.svg"
+  },
+  "vite": {
+    "symbol": "vite",
+    "name": "vite",
+    "file": "vite.svg"
+  },
+  "viu": {
+    "symbol": "viu",
+    "name": "viu",
+    "file": "viu.svg"
+  },
+  "vlx": {
+    "symbol": "vlx",
+    "name": "vlx",
+    "file": "vlx.svg"
+  },
+  "vrs": {
+    "symbol": "vrs",
+    "name": "vrs",
+    "file": "vrs.svg"
+  },
+  "vs": {
+    "symbol": "vs",
+    "name": "vs",
+    "file": "vs.svg"
+  },
+  "vsp": {
+    "symbol": "vsp",
+    "name": "vsp",
+    "file": "vsp.svg"
+  },
+  "vsys": {
+    "symbol": "vsys",
+    "name": "vsys",
+    "file": "vsys.svg"
+  },
+  "vtc": {
+    "symbol": "vtc",
+    "name": "vtc",
+    "file": "vtc.svg"
+  },
+  "vvs": {
+    "symbol": "vvs",
+    "name": "vvs",
+    "file": "vvs.svg"
+  },
+  "vvv": {
+    "symbol": "vvv",
+    "name": "vvv",
+    "file": "vvv.svg"
+  },
+  "w": {
+    "symbol": "w",
+    "name": "w",
+    "file": "w.svg"
+  },
+  "wabi": {
+    "symbol": "wabi",
+    "name": "wabi",
+    "file": "wabi.svg"
+  },
+  "wagmigames": {
+    "symbol": "wagmigames",
+    "name": "wagmigames",
+    "file": "wagmigames.svg"
+  },
+  "wallet": {
+    "symbol": "wallet",
+    "name": "wallet",
+    "file": "wallet.svg"
+  },
+  "wan": {
+    "symbol": "wan",
+    "name": "wan",
+    "file": "wan.svg"
+  },
+  "warp": {
+    "symbol": "warp",
+    "name": "warp",
+    "file": "warp.svg"
+  },
+  "wassie": {
+    "symbol": "wassie",
+    "name": "wassie",
+    "file": "wassie.svg"
+  },
+  "waves": {
+    "symbol": "waves",
+    "name": "waves",
+    "file": "waves.svg"
+  },
+  "wbt": {
+    "symbol": "wbt",
+    "name": "wbt",
+    "file": "wbt.svg"
+  },
+  "wbtc": {
+    "symbol": "wbtc",
+    "name": "wbtc",
+    "file": "wbtc.svg"
+  },
+  "wck": {
+    "symbol": "wck",
+    "name": "wck",
+    "file": "wck.svg"
+  },
+  "wct": {
+    "symbol": "wct",
+    "name": "wct",
+    "file": "wct.svg"
+  },
+  "weco": {
+    "symbol": "weco",
+    "name": "weco",
+    "file": "weco.svg"
+  },
+  "weeth": {
+    "symbol": "weeth",
+    "name": "weeth",
+    "file": "weeth.svg"
+  },
+  "wemix": {
+    "symbol": "wemix",
+    "name": "wemix",
+    "file": "wemix.svg"
+  },
+  "weth": {
+    "symbol": "weth",
+    "name": "weth",
+    "file": "weth.svg"
+  },
+  "wexpoly": {
+    "symbol": "wexpoly",
+    "name": "wexpoly",
+    "file": "wexpoly.svg"
+  },
+  "whale": {
+    "symbol": "whale",
+    "name": "whale",
+    "file": "whale.svg"
+  },
+  "wib": {
+    "symbol": "wib",
+    "name": "wib",
+    "file": "wib.svg"
+  },
+  "wild": {
+    "symbol": "wild",
+    "name": "wild",
+    "file": "wild.svg"
+  },
+  "win": {
+    "symbol": "win",
+    "name": "win",
+    "file": "win.svg"
+  },
+  "wing": {
+    "symbol": "wing",
+    "name": "wing",
+    "file": "wing.svg"
+  },
+  "wings": {
+    "symbol": "wings",
+    "name": "wings",
+    "file": "wings.svg"
+  },
+  "wld": {
+    "symbol": "wld",
+    "name": "wld",
+    "file": "wld.svg"
+  },
+  "wlfi": {
+    "symbol": "wlfi",
+    "name": "wlfi",
+    "file": "wlfi.svg"
+  },
+  "wmt": {
+    "symbol": "wmt",
+    "name": "wmt",
+    "file": "wmt.svg"
+  },
+  "woo": {
+    "symbol": "woo",
+    "name": "woo",
+    "file": "woo.svg"
+  },
+  "wopenx": {
+    "symbol": "wopenx",
+    "name": "wopenx",
+    "file": "wopenx.svg"
+  },
+  "wpr": {
+    "symbol": "wpr",
+    "name": "wpr",
+    "file": "wpr.svg"
+  },
+  "wrx": {
+    "symbol": "wrx",
+    "name": "wrx",
+    "file": "wrx.svg"
+  },
+  "wsteth": {
+    "symbol": "wsteth",
+    "name": "wsteth",
+    "file": "wsteth.svg"
+  },
+  "wtbt": {
+    "symbol": "wtbt",
+    "name": "wtbt",
+    "file": "wtbt.svg"
+  },
+  "wtc": {
+    "symbol": "wtc",
+    "name": "wtc",
+    "file": "wtc.svg"
+  },
+  "wxt": {
+    "symbol": "wxt",
+    "name": "wxt",
+    "file": "wxt.svg"
+  },
+  "x2y2": {
+    "symbol": "x2y2",
+    "name": "x2y2",
+    "file": "x2y2.svg"
+  },
+  "xai": {
+    "symbol": "xai",
+    "name": "xai",
+    "file": "xai.svg"
+  },
+  "xas": {
+    "symbol": "xas",
+    "name": "xas",
+    "file": "xas.svg"
+  },
+  "xaut": {
+    "symbol": "xaut",
+    "name": "xaut",
+    "file": "xaut.svg"
+  },
+  "xch": {
+    "symbol": "xch",
+    "name": "xch",
+    "file": "xch.svg"
+  },
+  "xchf": {
+    "symbol": "xchf",
+    "name": "xchf",
+    "file": "xchf.svg"
+  },
+  "xcm": {
+    "symbol": "xcm",
+    "name": "xcm",
+    "file": "xcm.svg"
+  },
+  "xcn": {
+    "symbol": "xcn",
+    "name": "xcn",
+    "file": "xcn.svg"
+  },
+  "xdc": {
+    "symbol": "xdc",
+    "name": "xdc",
+    "file": "xdc.svg"
+  },
+  "xec": {
+    "symbol": "xec",
+    "name": "xec",
+    "file": "xec.svg"
+  },
+  "xem": {
+    "symbol": "xem",
+    "name": "xem",
+    "file": "xem.svg"
+  },
+  "xhv": {
+    "symbol": "xhv",
+    "name": "xhv",
+    "file": "xhv.svg"
+  },
+  "xido": {
+    "symbol": "xido",
+    "name": "xido",
+    "file": "xido.svg"
+  },
+  "xin": {
+    "symbol": "xin",
+    "name": "xin",
+    "file": "xin.svg"
+  },
+  "xlm": {
+    "symbol": "xlm",
+    "name": "xlm",
+    "file": "xlm.svg"
+  },
+  "xln": {
+    "symbol": "xln",
+    "name": "xln",
+    "file": "xln.svg"
+  },
+  "xlq": {
+    "symbol": "xlq",
+    "name": "xlq",
+    "file": "xlq.svg"
+  },
+  "xmark": {
+    "symbol": "xmark",
+    "name": "xmark",
+    "file": "xmark.svg"
+  },
+  "xmr": {
+    "symbol": "xmr",
+    "name": "xmr",
+    "file": "xmr.svg"
+  },
+  "xmt": {
+    "symbol": "xmt",
+    "name": "xmt",
+    "file": "xmt.svg"
+  },
+  "xmx": {
+    "symbol": "xmx",
+    "name": "xmx",
+    "file": "xmx.svg"
+  },
+  "xnk": {
+    "symbol": "xnk",
+    "name": "xnk",
+    "file": "xnk.svg"
+  },
+  "xno": {
+    "symbol": "xno",
+    "name": "xno",
+    "file": "xno.svg"
+  },
+  "xns": {
+    "symbol": "xns",
+    "name": "xns",
+    "file": "xns.svg"
+  },
+  "xor": {
+    "symbol": "xor",
+    "name": "xor",
+    "file": "xor.svg"
+  },
+  "xpl": {
+    "symbol": "xpl",
+    "name": "xpl",
+    "file": "xpl.svg"
+  },
+  "xpr": {
+    "symbol": "xpr",
+    "name": "xpr",
+    "file": "xpr.svg"
+  },
+  "xprt": {
+    "symbol": "xprt",
+    "name": "xprt",
+    "file": "xprt.svg"
+  },
+  "xrd": {
+    "symbol": "xrd",
+    "name": "xrd",
+    "file": "xrd.svg"
+  },
+  "xrgb": {
+    "symbol": "xrgb",
+    "name": "xrgb",
+    "file": "xrgb.svg"
+  },
+  "xrp": {
+    "symbol": "xrp",
+    "name": "xrp",
+    "file": "xrp.svg"
+  },
+  "xsn": {
+    "symbol": "xsn",
+    "name": "xsn",
+    "file": "xsn.svg"
+  },
+  "xsr": {
+    "symbol": "xsr",
+    "name": "xsr",
+    "file": "xsr.svg"
+  },
+  "xtz": {
+    "symbol": "xtz",
+    "name": "xtz",
+    "file": "xtz.svg"
+  },
+  "xvg": {
+    "symbol": "xvg",
+    "name": "xvg",
+    "file": "xvg.svg"
+  },
+  "xym": {
+    "symbol": "xym",
+    "name": "xym",
+    "file": "xym.svg"
+  },
+  "xyo": {
+    "symbol": "xyo",
+    "name": "xyo",
+    "file": "xyo.svg"
+  },
+  "xzc": {
+    "symbol": "xzc",
+    "name": "xzc",
+    "file": "xzc.svg"
+  },
+  "yara": {
+    "symbol": "yara",
+    "name": "yara",
+    "file": "yara.svg"
+  },
+  "yfi": {
+    "symbol": "yfi",
+    "name": "yfi",
+    "file": "yfi.svg"
+  },
+  "yfii": {
+    "symbol": "yfii",
+    "name": "yfii",
+    "file": "yfii.svg"
+  },
+  "yld": {
+    "symbol": "yld",
+    "name": "yld",
+    "file": "yld.svg"
+  },
+  "yoyo": {
+    "symbol": "yoyo",
+    "name": "yoyow",
+    "file": "yoyo.svg"
+  },
+  "zai": {
+    "symbol": "zai",
+    "name": "zai",
+    "file": "zai.svg"
+  },
+  "zano": {
+    "symbol": "zano",
+    "name": "zano",
+    "file": "zano.svg"
+  },
+  "zb": {
+    "symbol": "zb",
+    "name": "zb",
+    "file": "zb.svg"
+  },
+  "zco": {
+    "symbol": "zco",
+    "name": "zco",
+    "file": "zco.svg"
+  },
+  "zec": {
+    "symbol": "zec",
+    "name": "zec",
+    "file": "zec.svg"
+  },
+  "zel": {
+    "symbol": "zel",
+    "name": "zel",
+    "file": "zel.svg"
+  },
+  "zen": {
+    "symbol": "zen",
+    "name": "zen",
+    "file": "zen.svg"
+  },
+  "zeph": {
+    "symbol": "zeph",
+    "name": "zeph",
+    "file": "zeph.svg"
+  },
+  "zil": {
+    "symbol": "zil",
+    "name": "zil",
+    "file": "zil.svg"
+  },
+  "zk": {
+    "symbol": "zk",
+    "name": "zk",
+    "file": "zk.svg"
+  },
+  "zks": {
+    "symbol": "zks",
+    "name": "zks",
+    "file": "zks.svg"
+  },
+  "zksp": {
+    "symbol": "zksp",
+    "name": "zksp",
+    "file": "zksp.svg"
+  },
+  "zpay": {
+    "symbol": "zpay",
+    "name": "zpay",
+    "file": "zpay.svg"
+  },
+  "zro": {
+    "symbol": "zro",
+    "name": "zro",
+    "file": "zro.svg"
+  },
+  "zrx": {
+    "symbol": "zrx",
+    "name": "zrx",
+    "file": "zrx.svg"
+  },
+  "zusd": {
+    "symbol": "zusd",
+    "name": "zusd",
+    "file": "zusd.svg"
+  }
+}

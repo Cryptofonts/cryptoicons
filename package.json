@@ -1,0 +1,21 @@
+{
+  "name": "cryptoicons-workspace",
+  "private": true,
+  "type": "commonjs",
+  "packageManager": "pnpm@10.13.1",
+  "scripts": {
+    "generate": "node scripts/generate-manifest.js && node scripts/generate-react.js",
+    "build": "pnpm --recursive --if-present build",
+    "release": "pnpm changeset publish"
+  },
+  "devDependencies": {
+    "@babel/types": "^7.28.0",
+    "@changesets/cli": "^2.29.7",
+    "@svgr/core": "^8.1.0",
+    "@svgr/plugin-jsx": "^8.1.0",
+    "@svgr/plugin-svgo": "^8.1.0",
+    "@types/react": "^19.1.10",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.2"
+  }
+}

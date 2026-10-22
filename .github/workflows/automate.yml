@@ -3,7 +3,7 @@ name: Run cryptoicons automation
 on:
   push:
     paths:
-      - SVG/**
+      - assets/**
 
 jobs:
   build:

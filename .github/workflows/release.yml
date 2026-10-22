@@ -1,0 +1,60 @@
+name: Build and release packages
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - assets/**
+      - packages/**
+      - scripts/**
+      - .changeset/**
+      - package.json
+      - pnpm-lock.yaml
+      - pnpm-workspace.yaml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.13.1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+          registry-url: https://registry.npmjs.org
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm generate
+      - run: pnpm build
+      - name: Create asset update changeset
+        if: github.event_name == 'push'
+        run: |
+          if git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- assets/ | grep -q .; then
+            mkdir -p .changeset
+            cat > ".changeset/assets-${GITHUB_RUN_ID}.md" <<'EOF'
+          ---
+          '@cryptofonts/core': patch
+          '@cryptofonts/react': patch
+          ---
+
+          Regenerate icon metadata and React components.
+          EOF
+          fi
+      - uses: changesets/action@v1
+        with:
+          version: pnpm changeset version
+          publish: pnpm release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}

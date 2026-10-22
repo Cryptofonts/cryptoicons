@@ -1,0 +1,35 @@
+{
+  "name": "@cryptofonts/react",
+  "version": "1.0.0",
+  "description": "Tree-shakeable React icon components for Cryptoicons.",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "sideEffects": false,
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.mjs"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    }
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "dependencies": {
+    "@cryptofonts/core": "workspace:*"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  }
+}
