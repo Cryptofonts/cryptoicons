@@ -58,6 +58,12 @@ function Example() {
 chain/address-to-symbol map because contract addresses are not part of this
 icon-only repository.
 
+Package publishing uses npm Trusted Publishing from the GitHub Actions
+`release.yml` workflow. Configure a GitHub Actions trusted publisher for each
+package (`@cryptofonts/core` and `@cryptofonts/react`) on npm with owner
+`monzanifabio`, repository `cryptoicons`, and workflow filename `release.yml`.
+The workflow runs on pushes to `master`; no `NPM_TOKEN` secret is required.
+
 ### License
 
 By contributing, you agree that your contributions will be licensed under its GNU License.
