@@ -1,6 +1,6 @@
 {
   "name": "@cryptofonts/react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tree-shakeable React icon components for Cryptoicons.",
   "license": "GPL-3.0-or-later",
   "type": "module",
