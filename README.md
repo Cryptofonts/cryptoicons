@@ -65,6 +65,9 @@ package (`@cryptofonts/core` and `@cryptofonts/react`) on npm with owner
 The workflow runs on pushes to `master`; no `NPM_TOKEN` secret is required.
 The npm CLI is pinned to an OIDC-capable npm 11 release because npm 12 rejects
 the `--no-git-checks` flag forwarded by the current pnpm publishing flow.
+The workflow avoids token-based registry configuration and enables verbose npm
+logging to surface OIDC token-exchange failures. Never print authentication
+tokens when troubleshooting publishing.
 
 ### License
 

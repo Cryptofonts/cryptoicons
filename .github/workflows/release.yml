@@ -33,13 +33,19 @@ jobs:
         with:
           node-version: 22
           cache: pnpm
-          registry-url: https://registry.npmjs.org
       - name: Install npm CLI with trusted publishing support
         # npm 12 rejects the --no-git-checks flag forwarded by pnpm 10.
         run: npm install --global npm@11.19.1
       - run: pnpm install --frozen-lockfile
       - run: pnpm generate
       - run: pnpm build
+      - name: Verify trusted publishing environment
+        run: |
+          test -n "$ACTIONS_ID_TOKEN_REQUEST_URL"
+          test -n "$ACTIONS_ID_TOKEN_REQUEST_TOKEN"
+          node --version
+          npm --version
+          printf 'Repository: %s\nWorkflow: %s\nRef: %s\n' "$GITHUB_REPOSITORY" "$GITHUB_WORKFLOW_REF" "$GITHUB_REF"
       - name: Create asset update changeset
         if: github.event_name == 'push'
         run: |
@@ -60,3 +66,4 @@ jobs:
           publish: pnpm release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_CONFIG_LOGLEVEL: verbose
