@@ -3,6 +3,11 @@
   "version": "1.0.1",
   "description": "Token icon metadata and URL utilities for Cryptoicons.",
   "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cryptofonts/cryptoicons.git",
+    "directory": "packages/core"
+  },
   "type": "module",
   "files": [
     "dist"

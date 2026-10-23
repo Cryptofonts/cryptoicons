@@ -3,6 +3,11 @@
   "version": "1.0.1",
   "description": "Tree-shakeable React icon components for Cryptoicons.",
   "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cryptofonts/cryptoicons.git",
+    "directory": "packages/react"
+  },
   "type": "module",
   "files": [
     "dist"
