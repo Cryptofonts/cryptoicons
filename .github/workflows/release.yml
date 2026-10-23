@@ -35,7 +35,8 @@ jobs:
           cache: pnpm
           registry-url: https://registry.npmjs.org
       - name: Install npm CLI with trusted publishing support
-        run: npm install --global npm@latest
+        # npm 12 rejects the --no-git-checks flag forwarded by pnpm 10.
+        run: npm install --global npm@11.19.1
       - run: pnpm install --frozen-lockfile
       - run: pnpm generate
       - run: pnpm build

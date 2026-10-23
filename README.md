@@ -61,8 +61,10 @@ icon-only repository.
 Package publishing uses npm Trusted Publishing from the GitHub Actions
 `release.yml` workflow. Configure a GitHub Actions trusted publisher for each
 package (`@cryptofonts/core` and `@cryptofonts/react`) on npm with owner
-`monzanifabio`, repository `cryptoicons`, and workflow filename `release.yml`.
+`Cryptofonts`, repository `cryptoicons`, and workflow filename `release.yml`.
 The workflow runs on pushes to `master`; no `NPM_TOKEN` secret is required.
+The npm CLI is pinned to an OIDC-capable npm 11 release because npm 12 rejects
+the `--no-git-checks` flag forwarded by the current pnpm publishing flow.
 
 ### License
 
